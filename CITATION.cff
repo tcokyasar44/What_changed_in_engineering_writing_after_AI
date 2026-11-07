@@ -21,6 +21,6 @@ abstract: >-
   engineering journals (2015-2025) from OpenAlex, recover missing abstracts, measure
   word use in abstracts and in a sample of full texts, and estimate departures from
   pre-2023 trends after the release of ChatGPT.
-# After creating the GitLab project and the Zenodo deposit, add:
-# repository-code: "https://gitlab.com/<namespace>/<project>"
+repository-code: "https://github.com/tcokyasar44/What_changed_in_engineering_writing_after_AI"
+# After the Zenodo archive of release v1.0.0 exists, add:
 # doi: "10.5281/zenodo.<record>"

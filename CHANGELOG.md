@@ -59,9 +59,10 @@ records of each change are named in brackets.
 - Google Scholar Metrics lists are no longer fetched by a script (Google does not permit
   automated access, and the earlier script presented itself as a web browser). The lists
   are saved with their date. [`data/scholar_metrics_lists.csv`]
-- Fixed: a script that failed on start (`check_translations.py`), a progress script that
-  read the wrong folder, a Windows-only supervisor, and an unused Springer step whose
-  results were never merged (removed).
+- Fixed: a script that failed on start (`check_translations.py`), a Windows-only
+  supervisor, and an unused Springer step whose results were never merged (removed).
+  A progress monitor that read the wrong folder and a one-off probe of alternative
+  download locations were removed; neither affected any result.
 - No personal contact address is used as a fallback; every request carries the
   `CONTACT_EMAIL` the user sets.
 - Added offline tests, pinned versions, a licence, a citation file and the list of article

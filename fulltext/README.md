@@ -9,7 +9,7 @@ sample was drawn and obtained, and holds its record.
 | File | Contents |
 |---|---|
 | `fulltext_sample.csv.gz` | One row per drawn article: DOI, draw, whether it is an open-access replacement, how the copy was obtained, measurement status, whether the copy is the publisher's version, and every measure (counts only, no text) |
-| `as_run/` | The sampling and retrieval scripts exactly as they were run in September 2026 (only the author's address was removed as a fallback contact). They read and write paths of the original project and are kept as a record, not as a pipeline to rerun |
+| `as_run/` | The sampling and retrieval scripts exactly as they were run in September 2026 (the author's address was removed as a fallback contact, and a one-off diagnostic that probed alternative download locations was left out). They read and write paths of the original project and are kept as a record, not as a pipeline to rerun |
 
 `analysis/s5_fulltext_results.py` reads `fulltext_sample.csv.gz`, so the full-text
 results can be reproduced without any PDF.
