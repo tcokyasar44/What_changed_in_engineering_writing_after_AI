@@ -1,5 +1,7 @@
 # Replication package: What Changed in Engineering Writing After Generative AI Chat Assistants
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24028663.svg)](https://doi.org/10.5281/zenodo.24028663)
+
 Code and data for the article *What Changed in Engineering Writing After Generative AI
 Chat Assistants: Evidence from 1.8 Million Articles* (Taner Cokyasar, Texas A&M
 University). The package rebuilds the article corpus from open sources, measures it,

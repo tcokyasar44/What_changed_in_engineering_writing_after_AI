@@ -22,5 +22,5 @@ abstract: >-
   word use in abstracts and in a sample of full texts, and estimate departures from
   pre-2023 trends after the release of ChatGPT.
 repository-code: "https://github.com/tcokyasar44/What_changed_in_engineering_writing_after_AI"
-# After the Zenodo archive of release v1.0.0 exists, add:
-# doi: "10.5281/zenodo.<record>"
+# Concept DOI (all versions); version 1.0.0 is 10.5281/zenodo.24028664
+doi: "10.5281/zenodo.24028663"
