@@ -1,0 +1,4 @@
+venue,scholar_category,openalex_id,reason
+IEEE Transactions on Smart Grids,Power Engineering,S59604973,Scholar lists the title with a trailing s; OpenAlex: IEEE Transactions on Smart Grid (ISSN-L 1949-3053)
+"Engineering, Construction and Architectural Management",Civil Engineering,S120049674,OpenAlex title uses '&' without commas and the name search returns nothing (ISSN-L 0969-9988)
+Decision,Game Theory and Decision Science,S4210175686,"The name search returns Decision Support Systems (Elsevier); the venue is Decision, American Psychological Association (ISSN-L 2325-9965)"

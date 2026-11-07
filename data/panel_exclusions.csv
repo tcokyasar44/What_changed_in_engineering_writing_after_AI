@@ -1,0 +1,45 @@
+venue,scholar_category,scholar_rank,venue_type,h5_index,reason
+American Control Conference,Automation & Control Theory,15,conference,50,conference venue (rule R1)
+Conference on Learning for Dynamics and Control,Automation & Control Theory,16,conference,49,conference venue (rule R1)
+IEEE Conference on Decision and Control,Automation & Control Theory,18,conference,48,conference venue (rule R1)
+Engineering Structures,Civil Engineering,6,journal,104,listed in another category where it ranks higher (rule R3)
+Structures,Civil Engineering,8,journal,74,listed in another category where it ranks higher (rule R3)
+Journal of Constructional Steel Research,Civil Engineering,14,journal,60,listed in another category where it ranks higher (rule R3)
+Journal of Structural Engineering,Civil Engineering,15,journal,57,listed in another category where it ranks higher (rule R3)
+IEEE International Conference on Computer Communications (INFOCOM),Computer Networks & Wireless Communication,16,conference,80,conference venue (rule R1)
+IEEE International Conference on Communications,Computer Networks & Wireless Communication,18,conference,76,conference venue (rule R1)
+ACM Conference on Electronic Commerce,Game Theory and Decision Science,2,conference,54,conference venue (rule R1)
+International Conference on Web and Internet Economics,Game Theory and Decision Science,16,conference,22,conference venue (rule R1)
+Production Planning & Control,Manufacturing & Machinery,9,journal,86,listed in another category where it ranks higher (rule R3)
+Additive Manufacturing,Materials Engineering,20,journal,139,listed in another category where it ranks higher (rule R3)
+"Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science",Mechanical Engineering,20,conference,45,conference venue (rule R1)
+International Journal of Production Research,Operations Research,1,journal,139,listed in another category where it ranks higher (rule R3)
+Computers & Industrial Engineering,Operations Research,3,journal,121,listed in another category where it ranks higher (rule R3)
+Transportation Research Part E: Logistics and Transportation Review,Operations Research,6,journal,102,listed in another category where it ranks higher (rule R3)
+Journal of Manufacturing Technology Management,Operations Research,15,journal,61,listed in another category where it ranks higher (rule R3)
+IEEE Power and Energy Society General Meeting,Power Engineering,12,journal,64,conference venue (rule R1)
+Composite Structures,Structural Engineering,2,journal,109,listed in another category where it ranks higher (rule R3)
+IEEE Transactions on Sustainable Energy,Sustainable Energy,17,journal,94,listed in another category where it ranks higher (rule R3)
+Journal of Modern Power Systems and Clean Energy,Sustainable Energy,20,journal,64,listed in another category where it ranks higher (rule R3)
+ACM Symposium on Theory of Computing,Theoretical Computer Science,1,conference,63,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+IEEE Symposium on Foundations of Computer Science (FOCS),Theoretical Computer Science,2,conference,62,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+ACM SIAM Symposium on Discrete Algorithms,Theoretical Computer Science,3,conference,50,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+Journal of the ACM,Theoretical Computer Science,4,journal,42,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+SIAM Journal on Computing,Theoretical Computer Science,5,journal,40,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+Theoretical Computer Science,Theoretical Computer Science,6,journal,40,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+Conference on Innovations in Theoretical Computer Science,Theoretical Computer Science,7,conference,37,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+Algorithmica,Theoretical Computer Science,8,journal,33,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+IEEE Symposium on Logic in Computer Science,Theoretical Computer Science,9,conference,30,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+"International Colloquium on Automata, Languages and Programming (ICALP)",Theoretical Computer Science,10,journal,29,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+Logical Methods in Computer Science,Theoretical Computer Science,11,journal,28,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+ACM Transactions on Algorithms,Theoretical Computer Science,12,journal,27,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+Information and Computation,Theoretical Computer Science,13,journal,26,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+Random Structures & Algorithms,Theoretical Computer Science,14,journal,25,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+Journal of Computer and System Sciences,Theoretical Computer Science,15,journal,25,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+International Conference on Automated Deduction,Theoretical Computer Science,16,conference,24,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+Combinatorica,Theoretical Computer Science,17,journal,24,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+Symposium on Theoretical Aspects of Computer Science (STACS),Theoretical Computer Science,18,conference,24,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+Journal of Automated Reasoning,Theoretical Computer Science,19,journal,23,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+ACM SIGPLAN International Conference on Certified Programs and Proofs,Theoretical Computer Science,20,conference,23,category dropped (rule R0): 8 of 20 venues are conferences and the journals are not engineering journals
+Computer‐Aided Civil and Infrastructure Engineering,Transportation,11,journal,71,listed in another category where it ranks higher (rule R3)
+International Journal of Pavement Engineering,Transportation,16,journal,61,listed in another category where it ranks higher (rule R3)

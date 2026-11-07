@@ -1,0 +1,301 @@
+scholar_category,scholar_slug,scholar_rank,venue,h5_index,h5_median,recorded
+Engineering & Computer Science (general),eng_enggeneral,1,IEEE Access,288,401,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,2,Chemical engineering journal,245,310,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,3,Sensors,210,284,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,4,Advanced Science,190,258,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,5,Applied Sciences,188,260,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,6,ACM Computing Surveys,184,313,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,7,IEEE Transactions on Industrial Informatics,174,239,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,8,ACS Energy Letters,169,231,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,9,International Journal of Information Management,165,292,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,10,Sustainable Cities and Society,165,218,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,11,Fuel,150,183,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,12,Electronics,141,206,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,13,Computers in Biology and Medicine,140,201,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,14,Nature Electronics,139,220,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,15,IEEE Transactions on Industrial Electronics,139,184,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,16,Information Sciences,136,185,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,17,Mechanical Systems and Signal Processing,131,173,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,18,Nature Machine Intelligence,130,206,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,19,ACS Sustainable Chemistry & Engineering,125,158,2026-09-25
+Engineering & Computer Science (general),eng_enggeneral,20,IEEE Transactions on Instrumentation and Measurement,124,168,2026-09-25
+Operations Research,eng_operationsresearch,1,International Journal of Production Research,139,234,2026-09-25
+Operations Research,eng_operationsresearch,2,International Journal of Production Economics,137,209,2026-09-25
+Operations Research,eng_operationsresearch,3,Computers & Industrial Engineering,121,181,2026-09-25
+Operations Research,eng_operationsresearch,4,European Journal of Operational Research,120,184,2026-09-25
+Operations Research,eng_operationsresearch,5,Annals of Operations Research,104,152,2026-09-25
+Operations Research,eng_operationsresearch,6,Transportation Research Part E: Logistics and Transportation Review,102,151,2026-09-25
+Operations Research,eng_operationsresearch,7,Production Planning & Control,86,136,2026-09-25
+Operations Research,eng_operationsresearch,8,Production and Operations Management,79,102,2026-09-25
+Operations Research,eng_operationsresearch,9,Manufacturing & Service Operations Management,76,120,2026-09-25
+Operations Research,eng_operationsresearch,10,Computers & Operations Research,70,102,2026-09-25
+Operations Research,eng_operationsresearch,11,International Journal of Operations & Production Management,67,107,2026-09-25
+Operations Research,eng_operationsresearch,12,Mathematical Programming,64,97,2026-09-25
+Operations Research,eng_operationsresearch,13,Supply Chain Management: An International Journal,61,106,2026-09-25
+Operations Research,eng_operationsresearch,14,The International Journal of Logistics Management,61,103,2026-09-25
+Operations Research,eng_operationsresearch,15,Journal of Manufacturing Technology Management,61,97,2026-09-25
+Operations Research,eng_operationsresearch,16,Operations Research,61,88,2026-09-25
+Operations Research,eng_operationsresearch,17,International Journal of Logistics Research and Applications,56,91,2026-09-25
+Operations Research,eng_operationsresearch,18,Journal of Operations Management,53,86,2026-09-25
+Operations Research,eng_operationsresearch,19,Journal of the Operational Research Society,52,74,2026-09-25
+Operations Research,eng_operationsresearch,20,Transportation Science,52,73,2026-09-25
+Transportation,eng_transportation,1,IEEE Transactions on Intelligent Transportation Systems,163,219,2026-09-25
+Transportation,eng_transportation,2,Transportation Research Part C: Emerging Technologies,114,162,2026-09-25
+Transportation,eng_transportation,3,Transportation Research Part D: Transport and Environment,109,150,2026-09-25
+Transportation,eng_transportation,4,Transportation Research Part E: Logistics and Transportation Review,102,151,2026-09-25
+Transportation,eng_transportation,5,Transportation Research Part A: Policy and Practice,98,137,2026-09-25
+Transportation,eng_transportation,6,Accident Analysis & Prevention,90,115,2026-09-25
+Transportation,eng_transportation,7,IEEE Transactions on Intelligent Vehicles,85,122,2026-09-25
+Transportation,eng_transportation,8,Transport Policy,84,124,2026-09-25
+Transportation,eng_transportation,9,Transportation Research Interdisciplinary Perspectives,82,134,2026-09-25
+Transportation,eng_transportation,10,Journal of Transport Geography,81,112,2026-09-25
+Transportation,eng_transportation,11,Computer‐Aided Civil and Infrastructure Engineering,71,105,2026-09-25
+Transportation,eng_transportation,12,Transportation Research Part B: Methodological,71,99,2026-09-25
+Transportation,eng_transportation,13,Journal of Air Transport Management,67,102,2026-09-25
+Transportation,eng_transportation,14,Transportation Research Part F: Traffic Psychology and Behaviour,65,91,2026-09-25
+Transportation,eng_transportation,15,Transport Reviews,63,109,2026-09-25
+Transportation,eng_transportation,16,International Journal of Pavement Engineering,61,79,2026-09-25
+Transportation,eng_transportation,17,Travel Behaviour and Society,60,80,2026-09-25
+Transportation,eng_transportation,18,eTransportation,59,99,2026-09-25
+Transportation,eng_transportation,19,Smart Cities,59,90,2026-09-25
+Transportation,eng_transportation,20,Transportation,58,77,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,1,Composite Structures,109,140,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,2,International Journal of Mechanical Sciences,98,123,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,3,Tribology International,82,113,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,4,Engineering Failure Analysis,75,96,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,5,Journal of the Mechanics and Physics of Solids,64,88,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,6,Theoretical and Applied Fracture Mechanics,64,88,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,7,Mechanism and Machine Theory,63,81,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,8,Wear,63,79,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,9,International Journal of Solids and Structures,57,77,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,10,Mechanics of Advanced Materials and Structures,56,72,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,11,Friction,54,79,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,12,International Journal of Engineering Science,49,68,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,13,Mechanics Based Design of Structures and Machines,49,68,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,14,Journal of Mechanical Design,49,67,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,15,Vehicle System Dynamics,49,65,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,16,Journal of the Brazilian Society of Mechanical Sciences and Engineering,48,60,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,17,Chinese Journal of Mechanical Engineering,47,84,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,18,European Journal of Mechanics-A/Solids,46,68,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,19,"Facta Universitatis, Series: Mechanical Engineering",45,68,2026-09-25
+Mechanical Engineering,eng_mechanicalengineering,20,"Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science",45,55,2026-09-25
+Materials Engineering,eng_materialsengineering,1,Advanced Materials,330,440,2026-09-25
+Materials Engineering,eng_materialsengineering,2,Advanced Functional Materials,263,342,2026-09-25
+Materials Engineering,eng_materialsengineering,3,Advanced Energy Materials,237,326,2026-09-25
+Materials Engineering,eng_materialsengineering,4,ACS Nano,231,299,2026-09-25
+Materials Engineering,eng_materialsengineering,5,Energy & Environmental Science,219,318,2026-09-25
+Materials Engineering,eng_materialsengineering,6,Nature Materials,190,297,2026-09-25
+Materials Engineering,eng_materialsengineering,7,Nano Energy,185,245,2026-09-25
+Materials Engineering,eng_materialsengineering,8,Journal of Materials Chemistry A,178,223,2026-09-25
+Materials Engineering,eng_materialsengineering,9,Small,171,213,2026-09-25
+Materials Engineering,eng_materialsengineering,10,ACS Applied Materials & Interfaces,171,211,2026-09-25
+Materials Engineering,eng_materialsengineering,11,Energy Storage Materials,170,238,2026-09-25
+Materials Engineering,eng_materialsengineering,12,Nano-Micro Letters,159,218,2026-09-25
+Materials Engineering,eng_materialsengineering,13,Nature Reviews Materials,156,368,2026-09-25
+Materials Engineering,eng_materialsengineering,14,Nano Letters,155,198,2026-09-25
+Materials Engineering,eng_materialsengineering,15,Composites Part B: Engineering,149,201,2026-09-25
+Materials Engineering,eng_materialsengineering,16,Nanomaterials,148,208,2026-09-25
+Materials Engineering,eng_materialsengineering,17,Carbon,143,189,2026-09-25
+Materials Engineering,eng_materialsengineering,18,Materials,141,195,2026-09-25
+Materials Engineering,eng_materialsengineering,19,Bioactive Materials,139,198,2026-09-25
+Materials Engineering,eng_materialsengineering,20,Additive Manufacturing,139,185,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,1,Journal of Economic Behavior & Organization,74,112,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,2,ACM Conference on Electronic Commerce,54,70,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,3,Organizational Behavior and Human Decision Processes,48,79,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,4,Decision Sciences,39,63,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,5,Journal of Behavioral and Experimental Economics,36,58,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,6,Theoretical Economics,36,50,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,7,Journal of Economic Psychology,35,57,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,8,Experimental Economics,34,55,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,9,Games and Economic Behavior,34,45,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,10,Simulation & Gaming,33,59,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,11,Journal of Artificial Societies and Social Simulation,30,39,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,12,Group Decision and Negotiation,27,51,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,13,Journal of Behavioral Decision Making,25,36,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,14,Journal of Risk and Uncertainty,24,44,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,15,Dynamic Games and Applications,23,33,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,16,International Conference on Web and Internet Economics,22,31,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,17,Social Choice and Welfare,20,31,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,18,Journal of Multi‐Criteria Decision Analysis,19,30,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,19,Games,17,27,2026-09-25
+Game Theory and Decision Science,eng_gametheorydecisionscience,20,Decision,17,21,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,1,Trends in Food Science & Technology,177,245,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,2,Food Chemistry,161,194,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,3,Foods,147,213,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,4,Food Hydrocolloids,147,182,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,5,Critical Reviews in Food Science and Nutrition,144,198,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,6,Food Research International,127,174,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,7,Comprehensive Reviews in Food Science and Food Safety,119,180,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,8,LWT-Food Science and Technology,108,126,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,9,Journal of Agricultural and Food Chemistry,103,138,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,10,Food Control,98,130,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,11,Current Opinion in Food Science,83,121,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,12,Food Packaging and Shelf Life,80,112,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,13,Meat Science,79,102,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,14,Food Bioscience,79,100,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,15,Journal of Food Engineering,77,97,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,16,Food Quality and Preference,76,108,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,17,Food Reviews International,75,106,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,18,Food Science & Nutrition,75,99,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,19,Journal of the science of food and agriculture,73,104,2026-09-25
+Food Science & Technology,eng_foodsciencetechnology,20,Innovative Food Science & Emerging Technologies,71,102,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,1,ACM Symposium on Theory of Computing,63,89,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,2,IEEE Symposium on Foundations of Computer Science (FOCS),62,88,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,3,ACM SIAM Symposium on Discrete Algorithms,50,68,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,4,Journal of the ACM,42,69,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,5,SIAM Journal on Computing,40,55,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,6,Theoretical Computer Science,40,52,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,7,Conference on Innovations in Theoretical Computer Science,37,52,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,8,Algorithmica,33,48,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,9,IEEE Symposium on Logic in Computer Science,30,37,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,10,"International Colloquium on Automata, Languages and Programming (ICALP)",29,45,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,11,Logical Methods in Computer Science,28,37,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,12,ACM Transactions on Algorithms,27,46,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,13,Information and Computation,26,37,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,14,Random Structures & Algorithms,25,41,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,15,Journal of Computer and System Sciences,25,37,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,16,International Conference on Automated Deduction,24,37,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,17,Combinatorica,24,32,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,18,Symposium on Theoretical Aspects of Computer Science (STACS),24,27,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,19,Journal of Automated Reasoning,23,32,2026-09-25
+Theoretical Computer Science,eng_theoreticalcomputerscience,20,ACM SIGPLAN International Conference on Certified Programs and Proofs,23,30,2026-09-25
+Power Engineering,eng_powerengineering,1,IEEE Transactions on Smart Grids,133,170,2026-09-25
+Power Engineering,eng_powerengineering,2,IEEE Transactions on Power Electronics,129,167,2026-09-25
+Power Engineering,eng_powerengineering,3,IEEE Transactions on Power Systems,110,145,2026-09-25
+Power Engineering,eng_powerengineering,4,International Journal of Electrical Power & Energy Systems,103,139,2026-09-25
+Power Engineering,eng_powerengineering,5,IEEE Transactions on Sustainable Energy,94,135,2026-09-25
+Power Engineering,eng_powerengineering,6,IEEE Journal of Emerging and Selected Topics in Power Electronics,92,121,2026-09-25
+Power Engineering,eng_powerengineering,7,IEEE Transactions on Transportation Electrification,86,118,2026-09-25
+Power Engineering,eng_powerengineering,8,Electric Power Systems Research,84,110,2026-09-25
+Power Engineering,eng_powerengineering,9,IEEE Transactions on Power Delivery,70,86,2026-09-25
+Power Engineering,eng_powerengineering,10,IEEE Transactions on Energy Conversion,69,86,2026-09-25
+Power Engineering,eng_powerengineering,11,Journal of Modern Power Systems and Clean Energy,64,95,2026-09-25
+Power Engineering,eng_powerengineering,12,IEEE Power and Energy Society General Meeting,64,94,2026-09-25
+Power Engineering,eng_powerengineering,13,CSEE Journal of Power and Energy Systems,61,83,2026-09-25
+Power Engineering,eng_powerengineering,14,International Transactions on Electrical Energy Systems,55,78,2026-09-25
+Power Engineering,eng_powerengineering,15,"Sustainable Energy, Grids and Networks",54,76,2026-09-25
+Power Engineering,eng_powerengineering,16,"IET Generation, Transmission & Distribution",54,72,2026-09-25
+Power Engineering,eng_powerengineering,17,Protection and Control of Modern Power Systems,50,76,2026-09-25
+Power Engineering,eng_powerengineering,18,IET Renewable Power Generation,50,69,2026-09-25
+Power Engineering,eng_powerengineering,19,High Voltage,45,60,2026-09-25
+Power Engineering,eng_powerengineering,20,IEEE Transactions on Dielectrics and Electrical Insulation,44,52,2026-09-25
+Civil Engineering,eng_civilengineering,1,Construction and Building Materials,177,224,2026-09-25
+Civil Engineering,eng_civilengineering,2,Automation in Construction,145,193,2026-09-25
+Civil Engineering,eng_civilengineering,3,Journal of Building Engineering,130,163,2026-09-25
+Civil Engineering,eng_civilengineering,4,Cement and Concrete Composites,114,148,2026-09-25
+Civil Engineering,eng_civilengineering,5,Cement and Concrete Research,113,162,2026-09-25
+Civil Engineering,eng_civilengineering,6,Engineering Structures,104,129,2026-09-25
+Civil Engineering,eng_civilengineering,7,Case Studies in Construction Materials,90,124,2026-09-25
+Civil Engineering,eng_civilengineering,8,Structures,74,103,2026-09-25
+Civil Engineering,eng_civilengineering,9,Computer‐Aided Civil and Infrastructure Engineering,71,105,2026-09-25
+Civil Engineering,eng_civilengineering,10,Journal of Construction Engineering and Management,68,90,2026-09-25
+Civil Engineering,eng_civilengineering,11,International Journal of Construction Management,67,85,2026-09-25
+Civil Engineering,eng_civilengineering,12,"Engineering, Construction and Architectural Management",65,84,2026-09-25
+Civil Engineering,eng_civilengineering,13,International Journal of Pavement Engineering,61,79,2026-09-25
+Civil Engineering,eng_civilengineering,14,Journal of Constructional Steel Research,60,71,2026-09-25
+Civil Engineering,eng_civilengineering,15,Journal of Structural Engineering,57,78,2026-09-25
+Civil Engineering,eng_civilengineering,16,Transportation Geotechnics,56,74,2026-09-25
+Civil Engineering,eng_civilengineering,17,Journal of Traffic and Transportation Engineering (English Edition),54,91,2026-09-25
+Civil Engineering,eng_civilengineering,18,Advances in Civil Engineering,54,80,2026-09-25
+Civil Engineering,eng_civilengineering,19,Journal of Materials in Civil Engineering,54,68,2026-09-25
+Civil Engineering,eng_civilengineering,20,Road Materials and Pavement Design,52,68,2026-09-25
+Structural Engineering,eng_structuralengineering,1,Computer Methods in Applied Mechanics and Engineering,110,156,2026-09-25
+Structural Engineering,eng_structuralengineering,2,Composite Structures,109,140,2026-09-25
+Structural Engineering,eng_structuralengineering,3,Engineering Structures,104,129,2026-09-25
+Structural Engineering,eng_structuralengineering,4,Thin-Walled Structures,89,126,2026-09-25
+Structural Engineering,eng_structuralengineering,5,Structures,74,103,2026-09-25
+Structural Engineering,eng_structuralengineering,6,Structural and Multidisciplinary Optimization,62,82,2026-09-25
+Structural Engineering,eng_structuralengineering,7,Journal of Constructional Steel Research,60,71,2026-09-25
+Structural Engineering,eng_structuralengineering,8,Bulletin of Earthquake Engineering,59,78,2026-09-25
+Structural Engineering,eng_structuralengineering,9,Journal of Structural Engineering,57,78,2026-09-25
+Structural Engineering,eng_structuralengineering,10,Structural Control and Health Monitoring,55,71,2026-09-25
+Structural Engineering,eng_structuralengineering,11,Structural Concrete,52,68,2026-09-25
+Structural Engineering,eng_structuralengineering,12,Computers & Structures,50,65,2026-09-25
+Structural Engineering,eng_structuralengineering,13,"Steel and Composite Structures, An International Journal",49,78,2026-09-25
+Structural Engineering,eng_structuralengineering,14,Earthquake Engineering & Structural Dynamics,49,69,2026-09-25
+Structural Engineering,eng_structuralengineering,15,Structure and Infrastructure Engineering,49,68,2026-09-25
+Structural Engineering,eng_structuralengineering,16,Computational Mechanics,49,64,2026-09-25
+Structural Engineering,eng_structuralengineering,17,Frontiers in Built Environment,48,66,2026-09-25
+Structural Engineering,eng_structuralengineering,18,Engineering Analysis with Boundary Elements,47,58,2026-09-25
+Structural Engineering,eng_structuralengineering,19,Structural Safety,46,73,2026-09-25
+Structural Engineering,eng_structuralengineering,20,International Journal for Numerical Methods in Engineering,45,57,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,1,"IEEE Transactions on Systems, Man, and Cybernetics: Systems",124,177,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,2,IEEE Transactions on Automatic Control,113,162,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,3,IEEE Transactions on Fuzzy Systems,111,155,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,4,Automatica,101,137,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,5,IEEE/CAA Journal of Automatica Sinica,95,161,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,6,ISA Transactions,89,123,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,7,IEEE Transactions on Control Systems Technology,71,101,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,8,Annual Reviews in Control,64,124,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,9,Control Engineering Practice,62,86,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,10,International Journal of Robust and Nonlinear Control,59,85,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,11,Journal of Intelligent & Robotic Systems,56,76,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,12,International Journal of Systems Science,55,89,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,13,IEEE Transactions on Control of Network Systems,54,70,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,14,IEEE Control Systems Letters,53,68,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,15,American Control Conference,50,67,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,16,Conference on Learning for Dynamics and Control,49,72,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,17,International Journal of Fuzzy Systems,49,71,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,18,IEEE Conference on Decision and Control,48,61,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,19,"International Journal of Control, Automation and Systems",47,69,2026-09-25
+Automation & Control Theory,eng_automationcontroltheory,20,"Journal of Guidance, Control, and Dynamics",47,61,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,1,IEEE Transactions on Wireless Communications,161,220,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,2,IEEE Communications Surveys & Tutorials,155,305,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,3,IEEE Transactions on Vehicular Technology,143,184,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,4,IEEE Journal on Selected Areas in Communications,140,208,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,5,IEEE Transactions on Communications,126,183,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,6,Journal of Network and Computer Applications,101,173,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,7,Computer Communications,101,161,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,8,IEEE Wireless Communications Letters,101,147,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,9,IEEE Transactions on Mobile Computing,101,142,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,10,Computer networks,99,171,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,11,IEEE Wireless Communications,96,148,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,12,IEEE Network,95,150,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,13,IEEE Communications Magazine,91,162,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,14,IEEE Communications Letters,88,125,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,15,IEEE Systems Journal,86,121,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,16,IEEE International Conference on Computer Communications (INFOCOM),80,112,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,17,Wireless Personal Communications,80,112,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,18,IEEE International Conference on Communications,76,121,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,19,IEEE Transactions on Network and Service Management,75,108,2026-09-25
+Computer Networks & Wireless Communication,eng_computernetworkswirelesscommunication,20,IEEE Open Journal of the Communications Society,71,125,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,1,International Journal of Production Research,139,234,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,2,Additive Manufacturing,139,185,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,3,Computers & Industrial Engineering,121,181,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,4,Journal of Manufacturing Systems,116,182,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,5,Robotics and Computer-Integrated Manufacturing,100,148,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,6,Journal of Manufacturing Processes,97,136,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,7,The International Journal of Advanced Manufacturing Technology,96,135,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,8,Computers in Industry,88,165,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,9,Production Planning & Control,86,136,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,10,Journal of Intelligent Manufacturing,84,155,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,11,International Journal of Machine Tools and Manufacture,66,103,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,12,Journal of Manufacturing Technology Management,61,97,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,13,CIRP Journal of Manufacturing Science and Technology,52,69,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,14,Virtual and Physical Prototyping,51,82,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,15,International Journal of Computer Integrated Manufacturing,49,73,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,16,Rapid Prototyping Journal,49,68,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,17,International Journal of Precision Engineering and Manufacturing-Green Technology,47,66,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,18,Precision Engineering,47,61,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,19,CIRP Annals,46,80,2026-09-25
+Manufacturing & Machinery,eng_manufacturingmachinery,20,Progress in Additive Manufacturing,45,74,2026-09-25
+Sustainable Energy,eng_sustainableenergy,1,Renewable and Sustainable Energy Reviews,240,314,2026-09-25
+Sustainable Energy,eng_sustainableenergy,2,Applied Energy,193,256,2026-09-25
+Sustainable Energy,eng_sustainableenergy,3,Nature Energy,180,328,2026-09-25
+Sustainable Energy,eng_sustainableenergy,4,Energy,180,236,2026-09-25
+Sustainable Energy,eng_sustainableenergy,5,Renewable Energy,178,235,2026-09-25
+Sustainable Energy,eng_sustainableenergy,6,Joule,173,268,2026-09-25
+Sustainable Energy,eng_sustainableenergy,7,International Journal of Hydrogen Energy,171,244,2026-09-25
+Sustainable Energy,eng_sustainableenergy,8,Journal of Energy Storage,156,215,2026-09-25
+Sustainable Energy,eng_sustainableenergy,9,Energy Conversion and Management,154,206,2026-09-25
+Sustainable Energy,eng_sustainableenergy,10,Energies,148,197,2026-09-25
+Sustainable Energy,eng_sustainableenergy,11,Journal of Power Sources,138,191,2026-09-25
+Sustainable Energy,eng_sustainableenergy,12,Energy Reports,125,182,2026-09-25
+Sustainable Energy,eng_sustainableenergy,13,Energy and Buildings,122,168,2026-09-25
+Sustainable Energy,eng_sustainableenergy,14,Solar Energy,121,159,2026-09-25
+Sustainable Energy,eng_sustainableenergy,15,Sustainable Energy Technologies and Assessments,109,142,2026-09-25
+Sustainable Energy,eng_sustainableenergy,16,International Journal of Energy Research,98,133,2026-09-25
+Sustainable Energy,eng_sustainableenergy,17,IEEE Transactions on Sustainable Energy,94,135,2026-09-25
+Sustainable Energy,eng_sustainableenergy,18,Biomass Conversion and Biorefinery,81,107,2026-09-25
+Sustainable Energy,eng_sustainableenergy,19,Biomass and Bioenergy,75,108,2026-09-25
+Sustainable Energy,eng_sustainableenergy,20,Journal of Modern Power Systems and Clean Energy,64,95,2026-09-25

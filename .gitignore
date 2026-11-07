@@ -1,0 +1,21 @@
+# Credentials and local paths
+secrets.env
+analysis/paths.env
+
+# Rebuilt by the pipeline, or not redistributable (article text, abstracts)
+data/works/
+data/works_excluded/
+data/corpus.parquet
+data/recovered_abstracts.parquet
+data/recovery_attempts.csv
+data/api_cache.json
+data/watchdog_status.json
+analysis/out/
+fulltext/pdf/
+
+# Logs and Python artefacts
+*.log
+*.err
+__pycache__/
+*.pyc
+.pytest_cache/

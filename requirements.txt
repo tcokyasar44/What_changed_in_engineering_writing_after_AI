@@ -1,0 +1,14 @@
+# Versions used to produce the published results (Python 3.11.9, Windows 11).
+# The corpus steps (scripts/) need only pandas, numpy and pyarrow.
+pandas==3.0.6
+numpy==2.4.6
+pyarrow==25.0.1
+# Analysis steps (analysis/)
+statsmodels==0.15.0
+scipy==1.17.1
+nltk==3.10.4
+pymupdf==1.28.2
+matplotlib==3.11.2
+adjustText==1.4.0
+# Tests
+pytest>=8

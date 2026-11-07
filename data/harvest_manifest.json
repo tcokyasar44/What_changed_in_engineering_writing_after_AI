@@ -1,0 +1,1445 @@
+{
+ "done": {
+  "S4210209078": {
+   "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+   "n_works": 5145,
+   "harvested_at": "2026-09-26T03:50:39+00:00"
+  },
+  "S184954342": {
+   "venue": "IEEE Transactions on Automatic Control",
+   "n_works": 7185,
+   "harvested_at": "2026-09-26T03:51:25+00:00"
+  },
+  "S134177497": {
+   "venue": "IEEE Transactions on Fuzzy Systems",
+   "n_works": 3495,
+   "harvested_at": "2026-09-26T03:51:53+00:00"
+  },
+  "S51360982": {
+   "venue": "Automatica",
+   "n_works": 5825,
+   "harvested_at": "2026-09-26T03:52:31+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:30:29+00:00",
+   "abstracts_backfilled": 511
+  },
+  "S2484288132": {
+   "venue": "IEEE/CAA Journal of Automatica Sinica",
+   "n_works": 1872,
+   "harvested_at": "2026-09-26T03:52:49+00:00"
+  },
+  "S89543202": {
+   "venue": "ISA Transactions",
+   "n_works": 4438,
+   "harvested_at": "2026-09-26T03:53:19+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:30:29+00:00",
+   "abstracts_backfilled": 117
+  },
+  "S133363738": {
+   "venue": "IEEE Transactions on Control Systems Technology",
+   "n_works": 2482,
+   "harvested_at": "2026-09-26T03:53:40+00:00"
+  },
+  "S54761077": {
+   "venue": "Annual Reviews in Control",
+   "n_works": 529,
+   "harvested_at": "2026-09-26T03:53:49+00:00"
+  },
+  "S105928092": {
+   "venue": "Control Engineering Practice",
+   "n_works": 2551,
+   "harvested_at": "2026-09-26T03:54:09+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:30:31+00:00",
+   "abstracts_backfilled": 288
+  },
+  "S156578089": {
+   "venue": "International Journal of Robust and Nonlinear Control",
+   "n_works": 4770,
+   "harvested_at": "2026-09-26T03:54:43+00:00"
+  },
+  "S91329792": {
+   "venue": "Journal of Intelligent & Robotic Systems",
+   "n_works": 1956,
+   "harvested_at": "2026-09-26T03:55:00+00:00"
+  },
+  "S129640837": {
+   "venue": "International Journal of Systems Science",
+   "n_works": 2619,
+   "harvested_at": "2026-09-26T03:55:21+00:00"
+  },
+  "S2502544478": {
+   "venue": "IEEE Transactions on Control of Network Systems",
+   "n_works": 1661,
+   "harvested_at": "2026-09-26T03:55:36+00:00"
+  },
+  "S4306422535": {
+   "venue": "IEEE Control Systems Letters",
+   "n_works": 3301,
+   "harvested_at": "2026-09-26T03:56:00+00:00"
+  },
+  "S18792341": {
+   "venue": "International Journal of Fuzzy Systems",
+   "n_works": 1947,
+   "harvested_at": "2026-09-26T03:56:15+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:30:32+00:00",
+   "abstracts_backfilled": 88
+  },
+  "S25157213": {
+   "venue": "Journal of Guidance, Control, and Dynamics",
+   "n_works": 2481,
+   "harvested_at": "2026-09-26T03:56:34+00:00"
+  },
+  "S4398839": {
+   "venue": "International Journal of Control, Automation and Systems",
+   "n_works": 3174,
+   "harvested_at": "2026-09-26T03:57:01+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:30:32+00:00",
+   "abstracts_backfilled": 13
+  },
+  "S29980478": {
+   "venue": "Construction and Building Materials",
+   "n_works": 38191,
+   "harvested_at": "2026-09-26T04:01:22+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:30:43+00:00",
+   "abstracts_backfilled": 2059
+  },
+  "S172073041": {
+   "venue": "Automation in Construction",
+   "n_works": 4246,
+   "harvested_at": "2026-09-26T04:01:52+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:30:46+00:00",
+   "abstracts_backfilled": 601
+  },
+  "S2764478331": {
+   "venue": "Journal of Building Engineering",
+   "n_works": 14737,
+   "harvested_at": "2026-09-26T04:03:24+00:00"
+  },
+  "S123887920": {
+   "venue": "Cement and Concrete Composites",
+   "n_works": 3613,
+   "harvested_at": "2026-09-26T04:03:51+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:30:48+00:00",
+   "abstracts_backfilled": 364
+  },
+  "S186020892": {
+   "venue": "Cement and Concrete Research",
+   "n_works": 2593,
+   "harvested_at": "2026-09-26T04:04:11+00:00"
+  },
+  "S2764881959": {
+   "venue": "Case Studies in Construction Materials",
+   "n_works": 5554,
+   "harvested_at": "2026-09-26T04:04:54+00:00"
+  },
+  "S2898442875": {
+   "venue": "Structures",
+   "n_works": 10772,
+   "harvested_at": "2026-09-26T04:06:03+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:33:27+00:00",
+   "abstracts_backfilled": 813
+  },
+  "S206927758": {
+   "venue": "Computer\u2010Aided Civil and Infrastructure Engineering",
+   "n_works": 1306,
+   "harvested_at": "2026-09-26T04:06:27+00:00"
+  },
+  "S2764777209": {
+   "venue": "Journal of Construction Engineering and Management",
+   "n_works": 2220,
+   "harvested_at": "2026-09-26T04:07:02+00:00"
+  },
+  "S2764799587": {
+   "venue": "International Journal of Construction Management",
+   "n_works": 1274,
+   "harvested_at": "2026-09-26T04:07:15+00:00"
+  },
+  "S93312259": {
+   "venue": "Journal of Structural Engineering",
+   "n_works": 3099,
+   "harvested_at": "2026-09-26T04:07:38+00:00"
+  },
+  "S2764755947": {
+   "venue": "Transportation Geotechnics",
+   "n_works": 1767,
+   "harvested_at": "2026-09-26T04:07:52+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:30:49+00:00",
+   "abstracts_backfilled": 193
+  },
+  "S4210170470": {
+   "venue": "Journal of Traffic and Transportation Engineering (English Edition)",
+   "n_works": 618,
+   "harvested_at": "2026-09-26T04:08:01+00:00"
+  },
+  "S86499044": {
+   "venue": "Advances in Civil Engineering",
+   "n_works": 5484,
+   "harvested_at": "2026-09-26T04:08:45+00:00"
+  },
+  "S111427844": {
+   "venue": "Journal of Materials in Civil Engineering",
+   "n_works": 5204,
+   "harvested_at": "2026-09-26T04:09:29+00:00"
+  },
+  "S31518343": {
+   "venue": "Road Materials and Pavement Design",
+   "n_works": 1847,
+   "harvested_at": "2026-09-26T04:09:47+00:00"
+  },
+  "S63459445": {
+   "venue": "IEEE Transactions on Wireless Communications",
+   "n_works": 8306,
+   "harvested_at": "2026-09-26T04:10:53+00:00"
+  },
+  "S23688054": {
+   "venue": "IEEE Communications Surveys & Tutorials",
+   "n_works": 1162,
+   "harvested_at": "2026-09-26T04:11:10+00:00"
+  },
+  "S10936095": {
+   "venue": "IEEE Transactions on Vehicular Technology",
+   "n_works": 13821,
+   "harvested_at": "2026-09-26T04:12:54+00:00"
+  },
+  "S90422530": {
+   "venue": "IEEE Journal on Selected Areas in Communications",
+   "n_works": 3148,
+   "harvested_at": "2026-09-26T04:13:24+00:00"
+  },
+  "S196647941": {
+   "venue": "IEEE Transactions on Communications",
+   "n_works": 6772,
+   "harvested_at": "2026-09-26T04:14:16+00:00"
+  },
+  "S30128005": {
+   "venue": "Journal of Network and Computer Applications",
+   "n_works": 2535,
+   "harvested_at": "2026-09-26T04:14:39+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:30:50+00:00",
+   "abstracts_backfilled": 156
+  },
+  "S115004586": {
+   "venue": "Computer Communications",
+   "n_works": 3206,
+   "harvested_at": "2026-09-26T04:15:05+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:30:52+00:00",
+   "abstracts_backfilled": 265
+  },
+  "S2500830676": {
+   "venue": "IEEE Wireless Communications Letters",
+   "n_works": 5211,
+   "harvested_at": "2026-09-26T04:15:46+00:00"
+  },
+  "S69141925": {
+   "venue": "IEEE Transactions on Mobile Computing",
+   "n_works": 4649,
+   "harvested_at": "2026-09-26T04:16:27+00:00"
+  },
+  "S63392143": {
+   "venue": "Computer networks",
+   "n_works": 4939,
+   "harvested_at": "2026-09-26T04:17:04+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:30:54+00:00",
+   "abstracts_backfilled": 544
+  },
+  "S146764194": {
+   "venue": "IEEE Wireless Communications",
+   "n_works": 2124,
+   "harvested_at": "2026-09-26T04:17:24+00:00"
+  },
+  "S186584794": {
+   "venue": "IEEE Network",
+   "n_works": 2506,
+   "harvested_at": "2026-09-26T04:17:46+00:00"
+  },
+  "S158797327": {
+   "venue": "IEEE Communications Magazine",
+   "n_works": 4651,
+   "harvested_at": "2026-09-26T04:18:18+00:00"
+  },
+  "S147316732": {
+   "venue": "IEEE Communications Letters",
+   "n_works": 7492,
+   "harvested_at": "2026-09-26T04:19:10+00:00"
+  },
+  "S95999327": {
+   "venue": "IEEE Systems Journal",
+   "n_works": 3809,
+   "harvested_at": "2026-09-26T04:19:41+00:00"
+  },
+  "S49967189": {
+   "venue": "Wireless Personal Communications",
+   "n_works": 8770,
+   "harvested_at": "2026-09-26T04:20:33+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:30:58+00:00",
+   "abstracts_backfilled": 615
+  },
+  "S173527311": {
+   "venue": "IEEE Transactions on Network and Service Management",
+   "n_works": 2725,
+   "harvested_at": "2026-09-26T04:21:00+00:00"
+  },
+  "S4210202420": {
+   "venue": "IEEE Open Journal of the Communications Society",
+   "n_works": 1630,
+   "harvested_at": "2026-09-26T04:21:19+00:00"
+  },
+  "S2485537415": {
+   "venue": "IEEE Access",
+   "n_works": 101839,
+   "harvested_at": "2026-09-26T04:33:15+00:00"
+  },
+  "S149937609": {
+   "venue": "Chemical engineering journal",
+   "n_works": 58691,
+   "harvested_at": "2026-09-26T04:40:25+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:31:14+00:00",
+   "abstracts_backfilled": 3088
+  },
+  "S101949793": {
+   "venue": "Sensors",
+   "n_works": 68110,
+   "harvested_at": "2026-09-26T04:49:12+00:00"
+  },
+  "S2737737698": {
+   "venue": "Advanced Science",
+   "n_works": 16781,
+   "harvested_at": "2026-09-26T04:52:17+00:00"
+  },
+  "S4210205812": {
+   "venue": "Applied Sciences",
+   "n_works": 82129,
+   "harvested_at": "2026-09-26T05:02:07+00:00"
+  },
+  "S157921468": {
+   "venue": "ACM Computing Surveys",
+   "n_works": 1974,
+   "harvested_at": "2026-09-26T05:02:30+00:00"
+  },
+  "S184777250": {
+   "venue": "IEEE Transactions on Industrial Informatics",
+   "n_works": 7901,
+   "harvested_at": "2026-09-26T05:03:31+00:00"
+  },
+  "S2764414965": {
+   "venue": "ACS Energy Letters",
+   "n_works": 4545,
+   "harvested_at": "2026-09-26T05:04:17+00:00"
+  },
+  "S163634330": {
+   "venue": "Sustainable Cities and Society",
+   "n_works": 6594,
+   "harvested_at": "2026-09-26T05:05:05+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:31:19+00:00",
+   "abstracts_backfilled": 808
+  },
+  "S189354248": {
+   "venue": "International Journal of Information Management",
+   "n_works": 1246,
+   "harvested_at": "2026-09-26T05:05:19+00:00"
+  },
+  "S164770093": {
+   "venue": "Fuel",
+   "n_works": 28533,
+   "harvested_at": "2026-09-26T05:08:29+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:31:27+00:00",
+   "abstracts_backfilled": 1627
+  },
+  "S4210202905": {
+   "venue": "Electronics",
+   "n_works": 26882,
+   "harvested_at": "2026-09-26T05:11:58+00:00"
+  },
+  "S44278595": {
+   "venue": "Computers in Biology and Medicine",
+   "n_works": 8142,
+   "harvested_at": "2026-09-26T05:13:06+00:00"
+  },
+  "S58031724": {
+   "venue": "IEEE Transactions on Industrial Electronics",
+   "n_works": 12833,
+   "harvested_at": "2026-09-26T05:14:43+00:00"
+  },
+  "S4210239724": {
+   "venue": "Nature Electronics",
+   "n_works": 1472,
+   "harvested_at": "2026-09-26T05:15:00+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:31:28+00:00",
+   "abstracts_backfilled": 123
+  },
+  "S192650101": {
+   "venue": "Information Sciences",
+   "n_works": 10990,
+   "harvested_at": "2026-09-26T05:16:14+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:31:32+00:00",
+   "abstracts_backfilled": 626
+  },
+  "S128368299": {
+   "venue": "Mechanical Systems and Signal Processing",
+   "n_works": 9070,
+   "harvested_at": "2026-09-26T05:17:17+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:31:35+00:00",
+   "abstracts_backfilled": 726
+  },
+  "S2912241403": {
+   "venue": "Nature Machine Intelligence",
+   "n_works": 1105,
+   "harvested_at": "2026-09-26T05:17:32+00:00"
+  },
+  "S2502047864": {
+   "venue": "ACS Sustainable Chemistry & Engineering",
+   "n_works": 16843,
+   "harvested_at": "2026-09-26T05:19:56+00:00"
+  },
+  "S10892749": {
+   "venue": "IEEE Transactions on Instrumentation and Measurement",
+   "n_works": 15317,
+   "harvested_at": "2026-09-26T05:22:03+00:00"
+  },
+  "S89023782": {
+   "venue": "Trends in Food Science & Technology",
+   "n_works": 3671,
+   "harvested_at": "2026-09-26T05:22:40+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:31:37+00:00",
+   "abstracts_backfilled": 380
+  },
+  "S98026630": {
+   "venue": "Food Chemistry",
+   "n_works": 29198,
+   "harvested_at": "2026-09-26T05:26:19+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:31:46+00:00",
+   "abstracts_backfilled": 1812
+  },
+  "S168584722": {
+   "venue": "Food Hydrocolloids",
+   "n_works": 9294,
+   "harvested_at": "2026-09-26T05:27:33+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:31:51+00:00",
+   "abstracts_backfilled": 822
+  },
+  "S2737939966": {
+   "venue": "Foods",
+   "n_works": 23111,
+   "harvested_at": "2026-09-26T05:30:57+00:00"
+  },
+  "S70620193": {
+   "venue": "Critical Reviews in Food Science and Nutrition",
+   "n_works": 3309,
+   "harvested_at": "2026-09-26T05:31:36+00:00"
+  },
+  "S38919146": {
+   "venue": "Food Research International",
+   "n_works": 11856,
+   "harvested_at": "2026-09-26T05:33:17+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:31:56+00:00",
+   "abstracts_backfilled": 1040
+  },
+  "S336866": {
+   "venue": "Comprehensive Reviews in Food Science and Food Safety",
+   "n_works": 1528,
+   "harvested_at": "2026-09-26T05:33:42+00:00"
+  },
+  "S26760650": {
+   "venue": "LWT-Food Science and Technology",
+   "n_works": 13958,
+   "harvested_at": "2026-09-26T05:35:29+00:00"
+  },
+  "S134644764": {
+   "venue": "Journal of Agricultural and Food Chemistry",
+   "n_works": 17821,
+   "harvested_at": "2026-09-26T05:38:15+00:00"
+  },
+  "S119525064": {
+   "venue": "Food Control",
+   "n_works": 7493,
+   "harvested_at": "2026-09-26T05:39:13+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:01+00:00",
+   "abstracts_backfilled": 786
+  },
+  "S2764555239": {
+   "venue": "Current Opinion in Food Science",
+   "n_works": 12,
+   "harvested_at": "2026-09-26T05:39:20+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:01+00:00",
+   "abstracts_backfilled": 0
+  },
+  "S2764480744": {
+   "venue": "Food Packaging and Shelf Life",
+   "n_works": 1613,
+   "harvested_at": "2026-09-26T05:39:39+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:02+00:00",
+   "abstracts_backfilled": 170
+  },
+  "S2764726840": {
+   "venue": "Food Bioscience",
+   "n_works": 7694,
+   "harvested_at": "2026-09-26T05:40:40+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:06+00:00",
+   "abstracts_backfilled": 521
+  },
+  "S9483105": {
+   "venue": "Meat Science",
+   "n_works": 2988,
+   "harvested_at": "2026-09-26T05:41:07+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:03+00:00",
+   "abstracts_backfilled": 231
+  },
+  "S137362610": {
+   "venue": "Journal of Food Engineering",
+   "n_works": 4003,
+   "harvested_at": "2026-09-26T05:41:38+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:08+00:00",
+   "abstracts_backfilled": 360
+  },
+  "S194662844": {
+   "venue": "Food Quality and Preference",
+   "n_works": 2574,
+   "harvested_at": "2026-09-26T05:42:02+00:00"
+  },
+  "S2764587058": {
+   "venue": "Food Science & Nutrition",
+   "n_works": 5501,
+   "harvested_at": "2026-09-26T05:42:53+00:00"
+  },
+  "S106123072": {
+   "venue": "Food Reviews International",
+   "n_works": 987,
+   "harvested_at": "2026-09-26T05:43:08+00:00"
+  },
+  "S206298197": {
+   "venue": "Journal of the science of food and agriculture",
+   "n_works": 7959,
+   "harvested_at": "2026-09-26T05:44:17+00:00"
+  },
+  "S130676932": {
+   "venue": "Innovative Food Science & Emerging Technologies",
+   "n_works": 2664,
+   "harvested_at": "2026-09-26T05:44:42+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:10+00:00",
+   "abstracts_backfilled": 292
+  },
+  "S62201805": {
+   "venue": "Journal of Economic Behavior & Organization",
+   "n_works": 3701,
+   "harvested_at": "2026-09-26T05:45:10+00:00"
+  },
+  "S64744539": {
+   "venue": "Organizational Behavior and Human Decision Processes",
+   "n_works": 554,
+   "harvested_at": "2026-09-26T05:45:21+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:10+00:00",
+   "abstracts_backfilled": 74
+  },
+  "S177792750": {
+   "venue": "Decision Sciences",
+   "n_works": 498,
+   "harvested_at": "2026-09-26T05:45:31+00:00"
+  },
+  "S4210233753": {
+   "venue": "Journal of Behavioral and Experimental Economics",
+   "n_works": 1109,
+   "harvested_at": "2026-09-26T05:45:46+00:00"
+  },
+  "S10997704": {
+   "venue": "Theoretical Economics",
+   "n_works": 474,
+   "harvested_at": "2026-09-26T05:45:57+00:00"
+  },
+  "S71968408": {
+   "venue": "Journal of Economic Psychology",
+   "n_works": 692,
+   "harvested_at": "2026-09-26T05:46:10+00:00"
+  },
+  "S181493553": {
+   "venue": "Experimental Economics",
+   "n_works": 451,
+   "harvested_at": "2026-09-26T05:46:20+00:00"
+  },
+  "S94044085": {
+   "venue": "Games and Economic Behavior",
+   "n_works": 1552,
+   "harvested_at": "2026-09-26T05:46:35+00:00"
+  },
+  "S112620617": {
+   "venue": "Simulation & Gaming",
+   "n_works": 429,
+   "harvested_at": "2026-09-26T05:46:46+00:00"
+  },
+  "S131312518": {
+   "venue": "Journal of Artificial Societies and Social Simulation",
+   "n_works": 513,
+   "harvested_at": "2026-09-26T05:46:58+00:00"
+  },
+  "S149709236": {
+   "venue": "Group Decision and Negotiation",
+   "n_works": 489,
+   "harvested_at": "2026-09-26T05:47:07+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:11+00:00",
+   "abstracts_backfilled": 96
+  },
+  "S117214846": {
+   "venue": "Journal of Behavioral Decision Making",
+   "n_works": 552,
+   "harvested_at": "2026-09-26T05:47:18+00:00"
+  },
+  "S106686155": {
+   "venue": "Journal of Risk and Uncertainty",
+   "n_works": 254,
+   "harvested_at": "2026-09-26T05:47:27+00:00"
+  },
+  "S2502731256": {
+   "venue": "Dynamic Games and Applications",
+   "n_works": 515,
+   "harvested_at": "2026-09-26T05:47:37+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:12+00:00",
+   "abstracts_backfilled": 142
+  },
+  "S107325288": {
+   "venue": "Social Choice and Welfare",
+   "n_works": 751,
+   "harvested_at": "2026-09-26T05:47:49+00:00"
+  },
+  "S197149224": {
+   "venue": "Journal of Multi\u2010Criteria Decision Analysis",
+   "n_works": 211,
+   "harvested_at": "2026-09-26T05:47:57+00:00"
+  },
+  "S6552842": {
+   "venue": "Games",
+   "n_works": 681,
+   "harvested_at": "2026-09-26T05:48:09+00:00"
+  },
+  "S65690446": {
+   "venue": "International Journal of Production Research",
+   "n_works": 4586,
+   "harvested_at": "2026-09-26T05:49:00+00:00"
+  },
+  "S2764842179": {
+   "venue": "Additive Manufacturing",
+   "n_works": 4574,
+   "harvested_at": "2026-09-26T05:49:38+00:00"
+  },
+  "S196821226": {
+   "venue": "Computers & Industrial Engineering",
+   "n_works": 6920,
+   "harvested_at": "2026-09-26T05:50:22+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:15+00:00",
+   "abstracts_backfilled": 454
+  },
+  "S201698446": {
+   "venue": "Journal of Manufacturing Systems",
+   "n_works": 1723,
+   "harvested_at": "2026-09-26T05:50:40+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:16+00:00",
+   "abstracts_backfilled": 223
+  },
+  "S118216261": {
+   "venue": "Robotics and Computer-Integrated Manufacturing",
+   "n_works": 1574,
+   "harvested_at": "2026-09-26T05:50:56+00:00"
+  },
+  "S120037611": {
+   "venue": "Journal of Manufacturing Processes",
+   "n_works": 7000,
+   "harvested_at": "2026-09-26T05:51:44+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:19+00:00",
+   "abstracts_backfilled": 478
+  },
+  "S77056576": {
+   "venue": "The International Journal of Advanced Manufacturing Technology",
+   "n_works": 19988,
+   "harvested_at": "2026-09-26T05:53:47+00:00"
+  },
+  "S60779006": {
+   "venue": "Computers in Industry",
+   "n_works": 1297,
+   "harvested_at": "2026-09-26T05:54:02+00:00"
+  },
+  "S165057322": {
+   "venue": "Production Planning & Control",
+   "n_works": 1088,
+   "harvested_at": "2026-09-26T05:54:17+00:00"
+  },
+  "S161464388": {
+   "venue": "Journal of Intelligent Manufacturing",
+   "n_works": 1626,
+   "harvested_at": "2026-09-26T05:54:34+00:00"
+  },
+  "S154368109": {
+   "venue": "International Journal of Machine Tools and Manufacture",
+   "n_works": 783,
+   "harvested_at": "2026-09-26T05:54:46+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:19+00:00",
+   "abstracts_backfilled": 58
+  },
+  "S144472306": {
+   "venue": "Journal of Manufacturing Technology Management",
+   "n_works": 762,
+   "harvested_at": "2026-09-26T05:54:58+00:00"
+  },
+  "S134482011": {
+   "venue": "CIRP Journal of Manufacturing Science and Technology",
+   "n_works": 1126,
+   "harvested_at": "2026-09-26T05:55:11+00:00"
+  },
+  "S152936027": {
+   "venue": "Virtual and Physical Prototyping",
+   "n_works": 899,
+   "harvested_at": "2026-09-26T05:55:24+00:00"
+  },
+  "S57062392": {
+   "venue": "International Journal of Computer Integrated Manufacturing",
+   "n_works": 942,
+   "harvested_at": "2026-09-26T05:55:37+00:00"
+  },
+  "S173500210": {
+   "venue": "Rapid Prototyping Journal",
+   "n_works": 1650,
+   "harvested_at": "2026-09-26T05:55:56+00:00"
+  },
+  "S140928716": {
+   "venue": "Precision Engineering",
+   "n_works": 2227,
+   "harvested_at": "2026-09-26T05:56:16+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:20+00:00",
+   "abstracts_backfilled": 157
+  },
+  "S2764410448": {
+   "venue": "International Journal of Precision Engineering and Manufacturing-Green Technology",
+   "n_works": 981,
+   "harvested_at": "2026-09-26T05:56:29+00:00"
+  },
+  "S2898225552": {
+   "venue": "CIRP Annals",
+   "n_works": 1584,
+   "harvested_at": "2026-09-26T05:56:45+00:00"
+  },
+  "S4210206835": {
+   "venue": "Progress in Additive Manufacturing",
+   "n_works": 1400,
+   "harvested_at": "2026-09-26T05:57:01+00:00"
+  },
+  "S99352657": {
+   "venue": "Advanced Materials",
+   "n_works": 25113,
+   "harvested_at": "2026-09-26T06:01:10+00:00"
+  },
+  "S135204980": {
+   "venue": "Advanced Functional Materials",
+   "n_works": 30174,
+   "harvested_at": "2026-09-26T06:05:52+00:00"
+  },
+  "S2502627819": {
+   "venue": "Advanced Energy Materials",
+   "n_works": 9809,
+   "harvested_at": "2026-09-26T06:07:32+00:00"
+  },
+  "S145476921": {
+   "venue": "ACS Nano",
+   "n_works": 19524,
+   "harvested_at": "2026-09-26T06:10:43+00:00"
+  },
+  "S117082959": {
+   "venue": "Energy & Environmental Science",
+   "n_works": 4572,
+   "harvested_at": "2026-09-26T06:11:34+00:00"
+  },
+  "S103895331": {
+   "venue": "Nature Materials",
+   "n_works": 3174,
+   "harvested_at": "2026-09-26T06:12:04+00:00"
+  },
+  "S2497301991": {
+   "venue": "Nano Energy",
+   "n_works": 10093,
+   "harvested_at": "2026-09-26T06:13:29+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:25+00:00",
+   "abstracts_backfilled": 449
+  },
+  "S2764437742": {
+   "venue": "Journal of Materials Chemistry A",
+   "n_works": 29214,
+   "harvested_at": "2026-09-26T06:17:39+00:00"
+  },
+  "S164001016": {
+   "venue": "ACS Applied Materials & Interfaces",
+   "n_works": 57278,
+   "harvested_at": "2026-09-26T06:25:50+00:00"
+  },
+  "S94619837": {
+   "venue": "Small",
+   "n_works": 24432,
+   "harvested_at": "2026-09-26T06:29:36+00:00"
+  },
+  "S2764728150": {
+   "venue": "Energy Storage Materials",
+   "n_works": 4750,
+   "harvested_at": "2026-09-26T06:30:19+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:27+00:00",
+   "abstracts_backfilled": 280
+  },
+  "S9070373": {
+   "venue": "Nano-Micro Letters",
+   "n_works": 1807,
+   "harvested_at": "2026-09-26T06:30:42+00:00"
+  },
+  "S2764917516": {
+   "venue": "Nature Reviews Materials",
+   "n_works": 562,
+   "harvested_at": "2026-09-26T06:30:51+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:28+00:00",
+   "abstracts_backfilled": 4
+  },
+  "S143846845": {
+   "venue": "Nano Letters",
+   "n_works": 15481,
+   "harvested_at": "2026-09-26T06:33:08+00:00"
+  },
+  "S112674977": {
+   "venue": "Composites Part B: Engineering",
+   "n_works": 9199,
+   "harvested_at": "2026-09-26T06:34:07+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:31+00:00",
+   "abstracts_backfilled": 564
+  },
+  "S2764646681": {
+   "venue": "Nanomaterials",
+   "n_works": 21208,
+   "harvested_at": "2026-09-26T06:36:38+00:00"
+  },
+  "S188605413": {
+   "venue": "Carbon",
+   "n_works": 12190,
+   "harvested_at": "2026-09-26T06:37:58+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:35+00:00",
+   "abstracts_backfilled": 705
+  },
+  "S18714766": {
+   "venue": "Materials",
+   "n_works": 52118,
+   "harvested_at": "2026-09-26T06:43:39+00:00"
+  },
+  "S2898508902": {
+   "venue": "Bioactive Materials",
+   "n_works": 2537,
+   "harvested_at": "2026-09-26T06:44:08+00:00"
+  },
+  "S52363224": {
+   "venue": "Composite Structures",
+   "n_works": 12311,
+   "harvested_at": "2026-09-26T06:45:19+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:39+00:00",
+   "abstracts_backfilled": 878
+  },
+  "S72716621": {
+   "venue": "International Journal of Mechanical Sciences",
+   "n_works": 6929,
+   "harvested_at": "2026-09-26T06:46:03+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:42+00:00",
+   "abstracts_backfilled": 435
+  },
+  "S24284137": {
+   "venue": "Tribology International",
+   "n_works": 7553,
+   "harvested_at": "2026-09-26T06:46:50+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:45+00:00",
+   "abstracts_backfilled": 607
+  },
+  "S152303250": {
+   "venue": "Engineering Failure Analysis",
+   "n_works": 7953,
+   "harvested_at": "2026-09-27T00:10:46+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:47+00:00",
+   "abstracts_backfilled": 375
+  },
+  "S105775785": {
+   "venue": "Journal of the Mechanics and Physics of Solids",
+   "n_works": 3386,
+   "harvested_at": "2026-09-27T00:11:18+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:49+00:00",
+   "abstracts_backfilled": 470
+  },
+  "S179906512": {
+   "venue": "Theoretical and Applied Fracture Mechanics",
+   "n_works": 3872,
+   "harvested_at": "2026-09-27T00:11:52+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:51+00:00",
+   "abstracts_backfilled": 248
+  },
+  "S6785741": {
+   "venue": "Mechanism and Machine Theory",
+   "n_works": 3374,
+   "harvested_at": "2026-09-27T00:12:17+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:52+00:00",
+   "abstracts_backfilled": 285
+  },
+  "S16737290": {
+   "venue": "Wear",
+   "n_works": 5106,
+   "harvested_at": "2026-09-27T00:12:51+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:54+00:00",
+   "abstracts_backfilled": 459
+  },
+  "S189344224": {
+   "venue": "International Journal of Solids and Structures",
+   "n_works": 4692,
+   "harvested_at": "2026-09-27T00:13:24+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:56+00:00",
+   "abstracts_backfilled": 497
+  },
+  "S87569533": {
+   "venue": "Mechanics of Advanced Materials and Structures",
+   "n_works": 4077,
+   "harvested_at": "2026-09-27T00:13:53+00:00"
+  },
+  "S2736340094": {
+   "venue": "Friction",
+   "n_works": 1209,
+   "harvested_at": "2026-09-27T00:14:08+00:00"
+  },
+  "S102630943": {
+   "venue": "International Journal of Engineering Science",
+   "n_works": 1397,
+   "harvested_at": "2026-09-27T00:14:24+00:00"
+  },
+  "S1574008": {
+   "venue": "Mechanics Based Design of Structures and Machines",
+   "n_works": 2219,
+   "harvested_at": "2026-09-27T00:14:44+00:00"
+  },
+  "S88457320": {
+   "venue": "Journal of Mechanical Design",
+   "n_works": 1873,
+   "harvested_at": "2026-09-27T00:15:00+00:00"
+  },
+  "S59320183": {
+   "venue": "Vehicle System Dynamics",
+   "n_works": 1448,
+   "harvested_at": "2026-09-27T00:15:14+00:00"
+  },
+  "S76397174": {
+   "venue": "Journal of the Brazilian Society of Mechanical Sciences and Engineering",
+   "n_works": 6344,
+   "harvested_at": "2026-09-27T00:15:48+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:32:59+00:00",
+   "abstracts_backfilled": 411
+  },
+  "S4220650901": {
+   "venue": "Chinese Journal of Mechanical Engineering",
+   "n_works": 1892,
+   "harvested_at": "2026-09-27T00:16:05+00:00"
+  },
+  "S197285952": {
+   "venue": "European Journal of Mechanics-A/Solids",
+   "n_works": 2682,
+   "harvested_at": "2026-09-27T00:16:28+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:33:00+00:00",
+   "abstracts_backfilled": 308
+  },
+  "S4210175206": {
+   "venue": "Facta Universitatis, Series: Mechanical Engineering",
+   "n_works": 424,
+   "harvested_at": "2026-09-27T00:16:37+00:00"
+  },
+  "S184816971": {
+   "venue": "International Journal of Production Economics",
+   "n_works": 3429,
+   "harvested_at": "2026-09-27T00:16:59+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:33:02+00:00",
+   "abstracts_backfilled": 352
+  },
+  "S103321696": {
+   "venue": "European Journal of Operational Research",
+   "n_works": 7567,
+   "harvested_at": "2026-09-27T00:17:43+00:00"
+  },
+  "S57667410": {
+   "venue": "Annals of Operations Research",
+   "n_works": 5345,
+   "harvested_at": "2026-09-27T00:18:15+00:00"
+  },
+  "S173966628": {
+   "venue": "Transportation Research Part E: Logistics and Transportation Review",
+   "n_works": 3327,
+   "harvested_at": "2026-09-27T00:18:38+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:34:44+00:00",
+   "abstracts_backfilled": 285
+  },
+  "S149070780": {
+   "venue": "Production and Operations Management",
+   "n_works": 2265,
+   "harvested_at": "2026-09-27T00:18:57+00:00"
+  },
+  "S81410195": {
+   "venue": "Manufacturing & Service Operations Management",
+   "n_works": 1142,
+   "harvested_at": "2026-09-27T00:19:09+00:00"
+  },
+  "S173256270": {
+   "venue": "Computers & Operations Research",
+   "n_works": 3137,
+   "harvested_at": "2026-09-27T00:19:29+00:00"
+  },
+  "S164321952": {
+   "venue": "International Journal of Operations & Production Management",
+   "n_works": 986,
+   "harvested_at": "2026-09-27T00:19:40+00:00"
+  },
+  "S193920097": {
+   "venue": "Mathematical Programming",
+   "n_works": 1515,
+   "harvested_at": "2026-09-27T00:19:53+00:00"
+  },
+  "S125775545": {
+   "venue": "Operations Research",
+   "n_works": 1632,
+   "harvested_at": "2026-09-27T00:20:07+00:00"
+  },
+  "S97048498": {
+   "venue": "The International Journal of Logistics Management",
+   "n_works": 749,
+   "harvested_at": "2026-09-27T00:20:17+00:00"
+  },
+  "S59007373": {
+   "venue": "Supply Chain Management: An International Journal",
+   "n_works": 610,
+   "harvested_at": "2026-09-27T00:20:27+00:00"
+  },
+  "S4210220312": {
+   "venue": "International Journal of Logistics Research and Applications",
+   "n_works": 678,
+   "harvested_at": "2026-09-27T00:20:37+00:00"
+  },
+  "S142306484": {
+   "venue": "Journal of Operations Management",
+   "n_works": 505,
+   "harvested_at": "2026-09-27T00:20:45+00:00"
+  },
+  "S130252234": {
+   "venue": "Transportation Science",
+   "n_works": 841,
+   "harvested_at": "2026-09-27T00:20:56+00:00"
+  },
+  "S169988927": {
+   "venue": "Journal of the Operational Research Society",
+   "n_works": 1919,
+   "harvested_at": "2026-09-27T00:21:14+00:00"
+  },
+  "S29875816": {
+   "venue": "IEEE Transactions on Power Electronics",
+   "n_works": 14273,
+   "harvested_at": "2026-09-27T00:22:50+00:00"
+  },
+  "S201921491": {
+   "venue": "IEEE Transactions on Power Systems",
+   "n_works": 6072,
+   "harvested_at": "2026-09-27T00:23:28+00:00"
+  },
+  "S168377509": {
+   "venue": "International Journal of Electrical Power & Energy Systems",
+   "n_works": 8226,
+   "harvested_at": "2026-09-27T00:24:14+00:00"
+  },
+  "S2764857692": {
+   "venue": "IEEE Journal of Emerging and Selected Topics in Power Electronics",
+   "n_works": 4891,
+   "harvested_at": "2026-09-27T00:24:48+00:00"
+  },
+  "S4306422867": {
+   "venue": "IEEE Transactions on Transportation Electrification",
+   "n_works": 4521,
+   "harvested_at": "2026-09-27T00:25:20+00:00"
+  },
+  "S151498627": {
+   "venue": "Electric Power Systems Research",
+   "n_works": 8911,
+   "harvested_at": "2026-09-27T00:26:08+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:33:06+00:00",
+   "abstracts_backfilled": 650
+  },
+  "S203966947": {
+   "venue": "IEEE Transactions on Power Delivery",
+   "n_works": 4204,
+   "harvested_at": "2026-09-27T00:26:38+00:00"
+  },
+  "S64770346": {
+   "venue": "IEEE Transactions on Energy Conversion",
+   "n_works": 2910,
+   "harvested_at": "2026-09-27T00:27:00+00:00"
+  },
+  "S4210194934": {
+   "venue": "Journal of Modern Power Systems and Clean Energy",
+   "n_works": 1566,
+   "harvested_at": "2026-09-27T00:27:14+00:00"
+  },
+  "S2764607435": {
+   "venue": "CSEE Journal of Power and Energy Systems",
+   "n_works": 1485,
+   "harvested_at": "2026-09-27T00:27:29+00:00"
+  },
+  "S2500072609": {
+   "venue": "International Transactions on Electrical Energy Systems",
+   "n_works": 2922,
+   "harvested_at": "2026-09-27T00:27:50+00:00"
+  },
+  "S2493549543": {
+   "venue": "Sustainable Energy, Grids and Networks",
+   "n_works": 2190,
+   "harvested_at": "2026-09-27T00:28:06+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:33:08+00:00",
+   "abstracts_backfilled": 398
+  },
+  "S71857517": {
+   "venue": "IET Generation, Transmission & Distribution",
+   "n_works": 4768,
+   "harvested_at": "2026-09-27T00:28:37+00:00"
+  },
+  "S42668443": {
+   "venue": "IET Renewable Power Generation",
+   "n_works": 2976,
+   "harvested_at": "2026-09-27T00:29:00+00:00"
+  },
+  "S2737292043": {
+   "venue": "Protection and Control of Modern Power Systems",
+   "n_works": 520,
+   "harvested_at": "2026-09-27T00:29:09+00:00"
+  },
+  "S4210222834": {
+   "venue": "High Voltage",
+   "n_works": 971,
+   "harvested_at": "2026-09-27T00:29:21+00:00"
+  },
+  "S19003042": {
+   "venue": "IEEE Transactions on Dielectrics and Electrical Insulation",
+   "n_works": 4902,
+   "harvested_at": "2026-09-27T00:29:54+00:00"
+  },
+  "S40006715": {
+   "venue": "Computer Methods in Applied Mechanics and Engineering",
+   "n_works": 7178,
+   "harvested_at": "2026-09-27T00:30:36+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:33:13+00:00",
+   "abstracts_backfilled": 1143
+  },
+  "S165454098": {
+   "venue": "Engineering Structures",
+   "n_works": 16434,
+   "harvested_at": "2026-09-27T00:32:03+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:33:20+00:00",
+   "abstracts_backfilled": 1568
+  },
+  "S205118121": {
+   "venue": "Thin-Walled Structures",
+   "n_works": 9010,
+   "harvested_at": "2026-09-27T00:32:54+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:33:23+00:00",
+   "abstracts_backfilled": 459
+  },
+  "S48050435": {
+   "venue": "Structural and Multidisciplinary Optimization",
+   "n_works": 3133,
+   "harvested_at": "2026-09-27T00:33:15+00:00"
+  },
+  "S154695693": {
+   "venue": "Journal of Constructional Steel Research",
+   "n_works": 5738,
+   "harvested_at": "2026-09-27T00:33:48+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:33:29+00:00",
+   "abstracts_backfilled": 270
+  },
+  "S144568777": {
+   "venue": "Bulletin of Earthquake Engineering",
+   "n_works": 2790,
+   "harvested_at": "2026-09-27T00:34:07+00:00"
+  },
+  "S4210219247": {
+   "venue": "Structural Control and Health Monitoring",
+   "n_works": 1882,
+   "harvested_at": "2026-09-27T00:34:25+00:00"
+  },
+  "S131433835": {
+   "venue": "Structural Concrete",
+   "n_works": 3220,
+   "harvested_at": "2026-09-27T00:34:50+00:00"
+  },
+  "S111482492": {
+   "venue": "Computers & Structures",
+   "n_works": 2212,
+   "harvested_at": "2026-09-27T00:35:06+00:00"
+  },
+  "S194562448": {
+   "venue": "Earthquake Engineering & Structural Dynamics",
+   "n_works": 1965,
+   "harvested_at": "2026-09-27T00:35:23+00:00"
+  },
+  "S85672143": {
+   "venue": "Steel and Composite Structures, An International Journal",
+   "n_works": 1315,
+   "harvested_at": "2026-09-27T00:35:35+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:33:34+00:00",
+   "abstracts_backfilled": 1271
+  },
+  "S147854436": {
+   "venue": "Computational Mechanics",
+   "n_works": 1698,
+   "harvested_at": "2026-09-27T00:35:49+00:00"
+  },
+  "S28058569": {
+   "venue": "Structure and Infrastructure Engineering",
+   "n_works": 1551,
+   "harvested_at": "2026-09-27T00:36:04+00:00"
+  },
+  "S2597036347": {
+   "venue": "Frontiers in Built Environment",
+   "n_works": 2144,
+   "harvested_at": "2026-09-27T00:36:21+00:00"
+  },
+  "S5226199": {
+   "venue": "Engineering Analysis with Boundary Elements",
+   "n_works": 3632,
+   "harvested_at": "2026-09-27T00:36:43+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:33:35+00:00",
+   "abstracts_backfilled": 100
+  },
+  "S1507157": {
+   "venue": "Structural Safety",
+   "n_works": 775,
+   "harvested_at": "2026-09-27T00:36:52+00:00"
+  },
+  "S165651092": {
+   "venue": "International Journal for Numerical Methods in Engineering",
+   "n_works": 2783,
+   "harvested_at": "2026-09-27T00:37:13+00:00"
+  },
+  "S68497187": {
+   "venue": "Renewable and Sustainable Energy Reviews",
+   "n_works": 12483,
+   "harvested_at": "2026-09-27T00:38:22+00:00"
+  },
+  "S109565702": {
+   "venue": "Applied Energy",
+   "n_works": 21159,
+   "harvested_at": "2026-09-27T00:40:14+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:33:49+00:00",
+   "abstracts_backfilled": 2715
+  },
+  "S2497375143": {
+   "venue": "Energy",
+   "n_works": 34794,
+   "harvested_at": "2026-09-27T00:43:40+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:34:01+00:00",
+   "abstracts_backfilled": 2210
+  },
+  "S2764528046": {
+   "venue": "Nature Energy",
+   "n_works": 2393,
+   "harvested_at": "2026-09-27T00:44:02+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:33:50+00:00",
+   "abstracts_backfilled": 169
+  },
+  "S815301": {
+   "venue": "Renewable Energy",
+   "n_works": 19600,
+   "harvested_at": "2026-09-27T00:46:09+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:34:09+00:00",
+   "abstracts_backfilled": 1721
+  },
+  "S2898305631": {
+   "venue": "Joule",
+   "n_works": 2294,
+   "harvested_at": "2026-09-27T00:46:33+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:34:10+00:00",
+   "abstracts_backfilled": 177
+  },
+  "S48860480": {
+   "venue": "International Journal of Hydrogen Energy",
+   "n_works": 41194,
+   "harvested_at": "2026-09-27T00:50:17+00:00"
+  },
+  "S2764865925": {
+   "venue": "Journal of Energy Storage",
+   "n_works": 22378,
+   "harvested_at": "2026-09-27T00:52:21+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:34:18+00:00",
+   "abstracts_backfilled": 1500
+  },
+  "S105637730": {
+   "venue": "Energy Conversion and Management",
+   "n_works": 14185,
+   "harvested_at": "2026-09-27T00:53:35+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:34:24+00:00",
+   "abstracts_backfilled": 1139
+  },
+  "S198098182": {
+   "venue": "Energies",
+   "n_works": 62536,
+   "harvested_at": "2026-09-27T00:59:43+00:00"
+  },
+  "S177147899": {
+   "venue": "Journal of Power Sources",
+   "n_works": 19208,
+   "harvested_at": "2026-09-27T01:01:40+00:00"
+  },
+  "S2898434319": {
+   "venue": "Energy Reports",
+   "n_works": 9516,
+   "harvested_at": "2026-09-27T01:02:41+00:00"
+  },
+  "S6846437": {
+   "venue": "Energy and Buildings",
+   "n_works": 11818,
+   "harvested_at": "2026-09-27T01:03:46+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:34:31+00:00",
+   "abstracts_backfilled": 1464
+  },
+  "S5745031": {
+   "venue": "Solar Energy",
+   "n_works": 10476,
+   "harvested_at": "2026-09-27T01:04:45+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:34:35+00:00",
+   "abstracts_backfilled": 690
+  },
+  "S2764877105": {
+   "venue": "Sustainable Energy Technologies and Assessments",
+   "n_works": 4688,
+   "harvested_at": "2026-09-27T01:05:13+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:34:37+00:00",
+   "abstracts_backfilled": 363
+  },
+  "S32776067": {
+   "venue": "International Journal of Energy Research",
+   "n_works": 6871,
+   "harvested_at": "2026-09-27T01:06:02+00:00"
+  },
+  "S201762130": {
+   "venue": "IEEE Transactions on Sustainable Energy",
+   "n_works": 2681,
+   "harvested_at": "2026-09-27T01:06:23+00:00"
+  },
+  "S2764923638": {
+   "venue": "Biomass Conversion and Biorefinery",
+   "n_works": 6946,
+   "harvested_at": "2026-09-27T01:07:03+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:34:40+00:00",
+   "abstracts_backfilled": 681
+  },
+  "S171918450": {
+   "venue": "Biomass and Bioenergy",
+   "n_works": 5502,
+   "harvested_at": "2026-09-27T01:07:39+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:34:43+00:00",
+   "abstracts_backfilled": 575
+  },
+  "S144771191": {
+   "venue": "IEEE Transactions on Intelligent Transportation Systems",
+   "n_works": 10169,
+   "harvested_at": "2026-09-27T01:08:44+00:00"
+  },
+  "S64511102": {
+   "venue": "Transportation Research Part C: Emerging Technologies",
+   "n_works": 3951,
+   "harvested_at": "2026-09-27T01:09:11+00:00"
+  },
+  "S45181156": {
+   "venue": "Transportation Research Part D: Transport and Environment",
+   "n_works": 3828,
+   "harvested_at": "2026-09-27T01:09:36+00:00"
+  },
+  "S159637997": {
+   "venue": "Transportation Research Part A: Policy and Practice",
+   "n_works": 3345,
+   "harvested_at": "2026-09-27T01:09:58+00:00"
+  },
+  "S188336720": {
+   "venue": "Accident Analysis & Prevention",
+   "n_works": 4331,
+   "harvested_at": "2026-09-27T01:10:29+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:34:46+00:00",
+   "abstracts_backfilled": 369
+  },
+  "S4210199657": {
+   "venue": "IEEE Transactions on Intelligent Vehicles",
+   "n_works": 2256,
+   "harvested_at": "2026-09-27T01:10:49+00:00"
+  },
+  "S186558940": {
+   "venue": "Transport Policy",
+   "n_works": 2774,
+   "harvested_at": "2026-09-27T01:11:09+00:00"
+  },
+  "S4210230100": {
+   "venue": "Transportation Research Interdisciplinary Perspectives",
+   "n_works": 2045,
+   "harvested_at": "2026-09-27T01:11:31+00:00"
+  },
+  "S80150607": {
+   "venue": "Journal of Transport Geography",
+   "n_works": 2597,
+   "harvested_at": "2026-09-27T01:11:54+00:00"
+  },
+  "S96305778": {
+   "venue": "Transportation Research Part B: Methodological",
+   "n_works": 1910,
+   "harvested_at": "2026-09-27T01:12:11+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:34:48+00:00",
+   "abstracts_backfilled": 208
+  },
+  "S99242495": {
+   "venue": "Journal of Air Transport Management",
+   "n_works": 1494,
+   "harvested_at": "2026-09-27T01:12:27+00:00"
+  },
+  "S51141438": {
+   "venue": "Transportation Research Part F: Traffic Psychology and Behaviour",
+   "n_works": 2879,
+   "harvested_at": "2026-09-27T01:12:49+00:00"
+  },
+  "S194388667": {
+   "venue": "Transport Reviews",
+   "n_works": 514,
+   "harvested_at": "2026-09-27T01:12:58+00:00"
+  },
+  "S113349237": {
+   "venue": "International Journal of Pavement Engineering",
+   "n_works": 2476,
+   "harvested_at": "2026-09-27T01:13:19+00:00"
+  },
+  "S2764874763": {
+   "venue": "Travel Behaviour and Society",
+   "n_works": 1245,
+   "harvested_at": "2026-09-27T01:13:33+00:00"
+  },
+  "S4210184358": {
+   "venue": "Smart Cities",
+   "n_works": 935,
+   "harvested_at": "2026-09-27T01:13:45+00:00"
+  },
+  "S4210225447": {
+   "venue": "eTransportation",
+   "n_works": 558,
+   "harvested_at": "2026-09-27T01:13:55+00:00",
+   "abstracts_backfilled_at": "2026-11-07T00:34:48+00:00",
+   "abstracts_backfilled": 72
+  },
+  "S62009534": {
+   "venue": "Transportation",
+   "n_works": 1168,
+   "harvested_at": "2026-09-27T01:14:07+00:00"
+  },
+  "S120049674": {
+   "venue": "Engineering, Construction and Architectural Management",
+   "n_works": 2071,
+   "harvested_at": "2026-11-07T00:29:55+00:00"
+  },
+  "S4210175686": {
+   "venue": "Decision",
+   "n_works": 220,
+   "harvested_at": "2026-11-07T00:29:57+00:00"
+  },
+  "S59604973": {
+   "venue": "IEEE Transactions on Smart Grids",
+   "n_works": 5118,
+   "harvested_at": "2026-11-07T00:30:26+00:00"
+  }
+ },
+ "failed": {}
+}

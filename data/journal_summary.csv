@@ -1,0 +1,257 @@
+openalex_id,venue,publisher,scholar_category,n_articles,min_year_count,cohort,openalex_abstract_share,abstract_share,text_tier
+S4210209078,"IEEE Transactions on Systems, Man, and Cybernetics: Systems",Institute of Electrical and Electronics Engineers,Automation & Control Theory,5145,202,core,0.9673469387755103,0.9681243926141885,A
+S184954342,IEEE Transactions on Automatic Control,Institute of Electrical and Electronics Engineers,Automation & Control Theory,7049,555,core,0.9585756844942545,0.9604199177188254,A
+S134177497,IEEE Transactions on Fuzzy Systems,Institute of Electrical and Electronics Engineers,Automation & Control Theory,3424,162,core,0.9497663551401869,0.9526869158878505,A
+S51360982,Automatica,Elsevier BV,Automation & Control Theory,5802,434,core,0.0880730782488797,0.4365735953119614,C
+S2484288132,IEEE/CAA Journal of Automatica Sinica,Institute of Electrical and Electronics Engineers,Automation & Control Theory,1846,60,core,0.9344528710725893,0.9349945828819068,A
+S89543202,ISA Transactions,Elsevier BV,Automation & Control Theory,4438,209,core,0.02636322667868409,0.7710680486705723,C
+S133363738,IEEE Transactions on Control Systems Technology,Institute of Electrical and Electronics Engineers,Automation & Control Theory,2408,165,core,0.9850498338870431,0.9850498338870431,A
+S54761077,Annual Reviews in Control,Elsevier BV,Automation & Control Theory,529,35,core,0.18147448015122875,0.5179584120982986,C
+S105928092,Control Engineering Practice,Elsevier BV,Automation & Control Theory,2545,161,core,0.1131630648330059,0.3387033398821218,C
+S156578089,International Journal of Robust and Nonlinear Control,Wiley,Automation & Control Theory,4768,164,core,0.9995805369127517,0.9997902684563759,A
+S91329792,Journal of Intelligent & Robotic Systems,Springer Science+Business Media,Automation & Control Theory,1955,126,core,0.25524296675191815,0.29718670076726345,C
+S129640837,International Journal of Systems Science,Taylor & Francis,Automation & Control Theory,2619,161,core,0.9969453990072547,0.9988545246277205,A
+S2502544478,IEEE Transactions on Control of Network Systems,Institute of Electrical and Electronics Engineers,Automation & Control Theory,1651,83,core,0.9836462749848577,0.9866747425802543,A
+S4306422535,IEEE Control Systems Letters,Institute of Electrical and Electronics Engineers,Automation & Control Theory,3282,0,emergent,0.9969530773918343,0.9972577696526508,A
+S18792341,International Journal of Fuzzy Systems,Springer Science+Business Media,Automation & Control Theory,1947,111,core,0.04519774011299435,0.07447354904982023,C
+S4398839,"International Journal of Control, Automation and Systems",Springer Science+Business Media,Automation & Control Theory,3174,140,core,0.004095778197857593,0.01543793320730939,C
+S25157213,"Journal of Guidance, Control, and Dynamics",American Institute of Aeronautics and Astronautics,Automation & Control Theory,2481,177,core,0.6469165659008465,0.6545747682386135,B
+S29980478,Construction and Building Materials,Elsevier BV,Civil Engineering,36388,1471,core,0.0565845883258217,0.27014400351764317,C
+S172073041,Automation in Construction,Elsevier BV,Civil Engineering,4225,155,core,0.14224852071005917,0.3749112426035503,C
+S2764478331,Journal of Building Engineering,Elsevier BV,Civil Engineering,14682,82,core,0.1211687780956273,0.2560958997411797,C
+S123887920,Cement and Concrete Composites,Elsevier BV,Civil Engineering,3441,132,core,0.10578320255739611,0.3289741354257483,C
+S186020892,Cement and Concrete Research,Elsevier BV,Civil Engineering,2578,182,core,0.20636152055857254,0.504266873545384,C
+S2764881959,Case Studies in Construction Materials,Elsevier BV,Civil Engineering,5546,27,core,0.9875586007933645,0.9875586007933645,A
+S206927758,Computer‐Aided Civil and Infrastructure Engineering,Wiley,Civil Engineering,1306,49,core,0.9387442572741195,0.9777947932618682,A
+S2764777209,Journal of Construction Engineering and Management,American Society of Civil Engineers,Civil Engineering,2220,135,core,0.9824324324324324,0.9824324324324324,A
+S2764799587,International Journal of Construction Management,Taylor & Francis,Civil Engineering,1274,33,core,0.9905808477237049,0.9945054945054945,A
+S120049674,"Engineering, Construction and Architectural Management",Emerald Publishing Limited,Civil Engineering,2071,39,core,0.9975857073877354,0.9975857073877354,A
+S113349237,International Journal of Pavement Engineering,Taylor & Francis,Civil Engineering,2159,119,core,0.999536822603057,0.999536822603057,A
+S2764755947,Transportation Geotechnics,Elsevier BV,Civil Engineering,1760,27,core,0.10965909090909091,0.3465909090909091,C
+S4210170470,Journal of Traffic and Transportation Engineering (English Edition),Elsevier BV,Civil Engineering,618,41,core,1.0,1.0,A
+S86499044,Advances in Civil Engineering,Hindawi Publishing Corporation,Civil Engineering,5484,15,emergent,0.9963530269876003,0.9967177242888403,A
+S111427844,Journal of Materials in Civil Engineering,American Society of Civil Engineers,Civil Engineering,5204,243,core,0.9869331283627979,0.9873174481168332,A
+S31518343,Road Materials and Pavement Design,Taylor & Francis,Civil Engineering,1847,117,core,0.9972929074174337,0.9978343259339469,A
+S63459445,IEEE Transactions on Wireless Communications,Institute of Electrical and Electronics Engineers,Computer Networks & Wireless Communication,8106,529,core,0.9703923019985197,0.9716259560819146,A
+S23688054,IEEE Communications Surveys & Tutorials,Institute of Electrical and Electronics Engineers,Computer Networks & Wireless Communication,1131,75,core,0.9946949602122016,0.9964633068081344,A
+S10936095,IEEE Transactions on Vehicular Technology,Institute of Electrical and Electronics Engineers,Computer Networks & Wireless Communication,13617,731,core,0.987368730263641,0.9894984210912829,A
+S90422530,IEEE Journal on Selected Areas in Communications,Institute of Electrical and Electronics Engineers,Computer Networks & Wireless Communication,3033,224,core,0.926145730300033,0.9271348499835147,A
+S196647941,IEEE Transactions on Communications,IEEE Communications Society,Computer Networks & Wireless Communication,6692,441,core,0.9544231918708906,0.9554692169754931,A
+S30128005,Journal of Network and Computer Applications,Elsevier BV,Computer Networks & Wireless Communication,2148,137,core,0.07262569832402235,0.2467411545623836,C
+S115004586,Computer Communications,Elsevier BV,Computer Networks & Wireless Communication,3206,188,core,0.08265751715533375,0.4457267623206488,C
+S2500830676,IEEE Wireless Communications Letters,Institute of Electrical and Electronics Engineers,Computer Networks & Wireless Communication,5148,184,core,0.9831002331002331,0.9858197358197358,A
+S69141925,IEEE Transactions on Mobile Computing,IEEE Computer Society,Computer Networks & Wireless Communication,4560,200,core,0.993859649122807,0.9971491228070175,A
+S63392143,Computer networks,Elsevier BV,Computer Networks & Wireless Communication,4660,270,core,0.1167381974248927,0.2836909871244635,C
+S146764194,IEEE Wireless Communications,Institute of Electrical and Electronics Engineers,Computer Networks & Wireless Communication,2108,121,core,0.8505692599620494,0.8515180265654649,A
+S186584794,IEEE Network,Institute of Electrical and Electronics Engineers,Computer Networks & Wireless Communication,2412,86,core,0.8967661691542289,0.8988391376451078,A
+S158797327,IEEE Communications Magazine,Institute of Electrical and Electronics Engineers,Computer Networks & Wireless Communication,4521,282,core,0.805352798053528,0.8066799380667994,A
+S147316732,IEEE Communications Letters,IEEE Communications Society,Computer Networks & Wireless Communication,7255,589,core,0.983184011026878,0.9842866988283943,A
+S95999327,IEEE Systems Journal,Institute of Electrical and Electronics Engineers,Computer Networks & Wireless Communication,3788,108,core,0.9767687434002112,0.9772967265047519,A
+S49967189,Wireless Personal Communications,Springer Science+Business Media,Computer Networks & Wireless Communication,8770,151,core,0.0701254275940707,0.08745724059293045,C
+S173527311,IEEE Transactions on Network and Service Management,Institute of Electrical and Electronics Engineers,Computer Networks & Wireless Communication,2699,47,core,0.993701370878103,0.9981474620229714,A
+S4210202420,IEEE Open Journal of the Communications Society,IEEE Communications Society,Computer Networks & Wireless Communication,1630,0,emergent,0.9993865030674847,0.9993865030674847,A
+S2485537415,IEEE Access,Institute of Electrical and Electronics Engineers,Engineering & Computer Science (general),101814,263,core,0.9996660577130847,0.9997544542007976,A
+S149937609,Chemical engineering journal,Elsevier BV,Engineering & Computer Science (general),56916,1505,core,0.054255393913837935,0.1935483870967742,C
+S101949793,Sensors,Multidisciplinary Digital Publishing Institute,Engineering & Computer Science (general),68092,1661,core,0.9998531398695882,0.9998531398695882,A
+S2737737698,Advanced Science,Wiley,Engineering & Computer Science (general),16781,186,core,0.9994040879566176,0.9994636791609558,A
+S4210205812,Applied Sciences,Multidisciplinary Digital Publishing Institute,Engineering & Computer Science (general),82129,132,core,0.999866064362162,0.999866064362162,A
+S157921468,ACM Computing Surveys,Association for Computing Machinery,Engineering & Computer Science (general),1974,76,core,1.0,1.0,A
+S184777250,IEEE Transactions on Industrial Informatics,Institute of Electrical and Electronics Engineers,Engineering & Computer Science (general),7855,211,core,0.9758115849777212,0.9770846594525779,A
+S2764414965,ACS Energy Letters,American Chemical Society,Engineering & Computer Science (general),4545,0,emergent,0.9977997799779978,0.9977997799779978,A
+S189354248,International Journal of Information Management,Elsevier BV,Engineering & Computer Science (general),1246,63,core,0.1548956661316212,0.4101123595505618,C
+S163634330,Sustainable Cities and Society,Elsevier BV,Engineering & Computer Science (general),6559,107,core,0.12318951059612746,0.37322762616252475,C
+S164770093,Fuel,Elsevier BV,Engineering & Computer Science (general),27086,1134,core,0.06006793177287159,0.25263974008712986,C
+S4210202905,Electronics,Multidisciplinary Digital Publishing Institute,Engineering & Computer Science (general),26882,57,core,0.9998884011606279,0.9998884011606279,A
+S44278595,Computers in Biology and Medicine,Elsevier BV,Engineering & Computer Science (general),8117,272,core,0.22730072686953307,0.6350868547492916,C
+S4210239724,Nature Electronics,Nature Portfolio,Engineering & Computer Science (general),1468,0,emergent,0.0837874659400545,0.13896457765667575,C
+S58031724,IEEE Transactions on Industrial Electronics,Institute of Electrical and Electronics Engineers,Engineering & Computer Science (general),12539,653,core,0.9908286147220672,0.9922641358960045,A
+S192650101,Information Sciences,Elsevier BV,Engineering & Computer Science (general),10977,673,core,0.057028331966839756,0.338434909355926,C
+S128368299,Mechanical Systems and Signal Processing,Elsevier BV,Engineering & Computer Science (general),9038,420,core,0.08032750608541712,0.29243195397211774,C
+S2912241403,Nature Machine Intelligence,Nature Portfolio,Engineering & Computer Science (general),1105,0,emergent,0.17375565610859728,0.3900452488687783,C
+S2502047864,ACS Sustainable Chemistry & Engineering,American Chemical Society,Engineering & Computer Science (general),16839,477,core,0.9987528950650276,0.998812281014312,A
+S10892749,IEEE Transactions on Instrumentation and Measurement,Institute of Electrical and Electronics Engineers,Engineering & Computer Science (general),15237,301,core,0.9867427971385443,0.9905493207324276,A
+S89023782,Trends in Food Science & Technology,Elsevier BV,Food Science & Technology,3483,127,core,0.10910134941142693,0.45305770887166236,C
+S98026630,Food Chemistry,Elsevier BV,Food Science & Technology,28363,1615,core,0.06388604872545217,0.6748933469661178,C
+S2737939966,Foods,Multidisciplinary Digital Publishing Institute,Food Science & Technology,23111,51,core,1.0,1.0,A
+S168584722,Food Hydrocolloids,Elsevier BV,Food Science & Technology,8845,418,core,0.09293386093838327,0.2858111927642736,C
+S70620193,Critical Reviews in Food Science and Nutrition,Taylor & Francis,Food Science & Technology,3309,127,core,1.0,1.0,A
+S38919146,Food Research International,Elsevier BV,Food Science & Technology,11471,432,core,0.09066341208264318,0.6602737337634034,C
+S336866,Comprehensive Reviews in Food Science and Food Safety,Wiley,Food Science & Technology,1528,55,core,0.9849476439790575,0.9856020942408377,A
+S26760650,LWT-Food Science and Technology,Elsevier BV,Food Science & Technology,13958,754,core,0.44318670296604096,0.6324688350766585,B
+S134644764,Journal of Agricultural and Food Chemistry,American Chemical Society,Food Science & Technology,17673,1095,core,0.999207831154869,0.999207831154869,A
+S119525064,Food Control,Elsevier BV,Food Science & Technology,6875,519,core,0.11432727272727272,0.35156363636363636,C
+S2764555239,Current Opinion in Food Science,Elsevier BV,Food Science & Technology,12,0,emergent,0.0,0.16666666666666666,C
+S2764480744,Food Packaging and Shelf Life,Elsevier BV,Food Science & Technology,1600,27,core,0.10625,0.37125,C
+S9483105,Meat Science,Elsevier BV,Food Science & Technology,2877,189,core,0.08029197080291971,0.5780326729231838,C
+S2764726840,Food Bioscience,Elsevier BV,Food Science & Technology,7683,45,core,0.06781205258362619,0.14877001171417414,C
+S137362610,Journal of Food Engineering,Elsevier BV,Food Science & Technology,3689,260,core,0.09758742206560043,0.3182434264028192,C
+S194662844,Food Quality and Preference,Elsevier BV,Food Science & Technology,2413,177,core,0.2768338168255284,0.4828014919187733,C
+S106123072,Food Reviews International,Taylor & Francis,Food Science & Technology,979,18,emergent,0.9959141981613892,1.0,A
+S2764587058,Food Science & Nutrition,Wiley,Food Science & Technology,5501,108,core,0.9998182148700236,1.0,A
+S206298197,Journal of the science of food and agriculture,Wiley,Food Science & Technology,7473,494,core,0.9958517329051251,0.9959855479727018,A
+S130676932,Innovative Food Science & Emerging Technologies,Elsevier BV,Food Science & Technology,2652,149,core,0.11010558069381599,0.31862745098039214,C
+S62201805,Journal of Economic Behavior & Organization,Elsevier BV,Game Theory and Decision Science,3701,223,core,0.23831396919751419,0.4288030262091327,C
+S64744539,Organizational Behavior and Human Decision Processes,Elsevier BV,Game Theory and Decision Science,554,23,core,0.13357400722021662,0.33212996389891697,C
+S177792750,Decision Sciences,Wiley,Game Theory and Decision Science,498,25,core,0.8734939759036144,0.8734939759036144,A
+S4210233753,Journal of Behavioral and Experimental Economics,Elsevier BV,Game Theory and Decision Science,1109,68,core,0.24616771866546439,0.5247971145175834,C
+S10997704,Theoretical Economics,Econometric Society,Game Theory and Decision Science,474,30,core,1.0,1.0,A
+S71968408,Journal of Economic Psychology,Elsevier BV,Game Theory and Decision Science,692,36,core,0.2153179190751445,0.5491329479768786,C
+S181493553,Experimental Economics,Springer Science+Business Media,Game Theory and Decision Science,451,27,core,0.9933481152993349,0.9933481152993349,A
+S94044085,Games and Economic Behavior,Elsevier BV,Game Theory and Decision Science,1552,108,core,0.18427835051546393,0.4793814432989691,C
+S112620617,Simulation & Gaming,SAGE Publishing,Game Theory and Decision Science,429,22,core,0.9883449883449883,0.9883449883449883,A
+S131312518,Journal of Artificial Societies and Social Simulation,University of Surrey,Game Theory and Decision Science,513,29,core,0.9259259259259259,0.9259259259259259,A
+S149709236,Group Decision and Negotiation,Springer Science+Business Media,Game Theory and Decision Science,489,31,core,0.19631901840490798,0.25153374233128833,C
+S117214846,Journal of Behavioral Decision Making,Wiley,Game Theory and Decision Science,552,38,core,0.9873188405797102,0.9873188405797102,A
+S106686155,Journal of Risk and Uncertainty,Springer Science+Business Media,Game Theory and Decision Science,254,18,emergent,0.421259842519685,0.4921259842519685,B
+S2502731256,Dynamic Games and Applications,Birkhäuser,Game Theory and Decision Science,515,23,core,0.2757281553398058,0.3941747572815534,C
+S107325288,Social Choice and Welfare,Springer Science+Business Media,Game Theory and Decision Science,751,48,core,0.2796271637816245,0.35419440745672437,C
+S197149224,Journal of Multi‐Criteria Decision Analysis,Wiley,Game Theory and Decision Science,211,11,emergent,0.990521327014218,0.990521327014218,A
+S6552842,Games,Multidisciplinary Digital Publishing Institute,Game Theory and Decision Science,681,34,core,1.0,1.0,A
+S4210175686,Decision,American Psychological Association,Game Theory and Decision Science,220,12,emergent,0.5181818181818182,0.6136363636363636,B
+S65690446,International Journal of Production Research,Taylor & Francis,Manufacturing & Machinery,4586,332,core,0.9982555604012211,0.9989097252507632,A
+S2764842179,Additive Manufacturing,Elsevier BV,Manufacturing & Machinery,4544,33,core,0.2125880281690141,0.5290492957746479,C
+S196821226,Computers & Industrial Engineering,Elsevier BV,Manufacturing & Machinery,6894,326,core,0.06585436611546272,0.32085871772555846,C
+S201698446,Journal of Manufacturing Systems,Elsevier BV,Manufacturing & Machinery,1723,69,core,0.1294254207777133,0.4091700522344748,C
+S118216261,Robotics and Computer-Integrated Manufacturing,Elsevier BV,Manufacturing & Machinery,1566,90,core,0.12707535121328226,0.3895274584929757,C
+S120037611,Journal of Manufacturing Processes,Elsevier BV,Manufacturing & Machinery,7000,107,core,0.06828571428571428,0.32485714285714284,C
+S77056576,The International Journal of Advanced Manufacturing Technology,Springer Science+Business Media,Manufacturing & Machinery,19988,1508,core,0.10326195717430459,0.1604462677606564,C
+S60779006,Computers in Industry,Elsevier BV,Manufacturing & Machinery,1290,60,core,0.2069767441860465,0.49147286821705427,C
+S161464388,Journal of Intelligent Manufacturing,Springer Science+Business Media,Manufacturing & Machinery,1626,60,core,0.1875768757687577,0.21894218942189422,C
+S154368109,International Journal of Machine Tools and Manufacture,Elsevier BV,Manufacturing & Machinery,748,44,core,0.07754010695187166,0.22058823529411764,C
+S144472306,Journal of Manufacturing Technology Management,Emerald Publishing Limited,Manufacturing & Machinery,762,49,core,0.9934383202099738,0.9934383202099738,A
+S134482011,CIRP Journal of Manufacturing Science and Technology,Elsevier BV,Manufacturing & Machinery,1126,35,core,0.16163410301953818,0.37300177619893427,C
+S152936027,Virtual and Physical Prototyping,Taylor & Francis,Manufacturing & Machinery,899,20,core,0.9988876529477196,0.9988876529477196,A
+S57062392,International Journal of Computer Integrated Manufacturing,Taylor & Francis,Manufacturing & Machinery,942,61,core,0.9978768577494692,0.9978768577494692,A
+S173500210,Rapid Prototyping Journal,Emerald Publishing Limited,Manufacturing & Machinery,1650,74,core,0.9981818181818182,0.9981818181818182,A
+S2764410448,International Journal of Precision Engineering and Manufacturing-Green Technology,Springer Science+Business Media,Manufacturing & Machinery,981,45,core,0.1111111111111111,0.11926605504587157,C
+S140928716,Precision Engineering,Elsevier BV,Manufacturing & Machinery,2141,133,core,0.0733302195235871,0.32601588042970575,C
+S2898225552,CIRP Annals,Elsevier BV,Manufacturing & Machinery,1584,125,core,0.16414141414141414,0.43686868686868685,C
+S4210206835,Progress in Additive Manufacturing,Springer Science+Business Media,Manufacturing & Machinery,1395,2,emergent,0.34695340501792116,0.36845878136200716,B
+S99352657,Advanced Materials,,Materials Engineering,24654,1319,core,0.9982558611178713,0.9983775452259268,A
+S135204980,Advanced Functional Materials,Wiley,Materials Engineering,29425,979,core,0.9991503823279524,0.9991843670348344,A
+S2502627819,Advanced Energy Materials,Wiley,Materials Engineering,9770,444,core,0.9984646878198568,0.9984646878198568,A
+S145476921,ACS Nano,American Chemical Society,Materials Engineering,19485,1207,core,0.9992814985886579,0.9992814985886579,A
+S117082959,Energy & Environmental Science,Royal Society of Chemistry,Materials Engineering,4474,238,core,0.9991059454626732,0.9991059454626732,A
+S103895331,Nature Materials,Nature Portfolio,Materials Engineering,3172,213,core,0.05138713745271122,0.26639344262295084,C
+S2497301991,Nano Energy,Elsevier BV,Materials Engineering,10052,432,core,0.044667727815360124,0.20543175487465182,C
+S2764437742,Journal of Materials Chemistry A,Royal Society of Chemistry,Materials Engineering,27754,2131,core,0.999603660733588,0.999603660733588,A
+S94619837,Small,Wiley,Materials Engineering,23830,783,core,0.9991607217792698,0.9991607217792698,A
+S164001016,ACS Applied Materials & Interfaces,American Chemical Society,Materials Engineering,57182,3410,core,0.9995802875030604,0.9995802875030604,A
+S2764728150,Energy Storage Materials,Elsevier BV,Materials Engineering,4750,30,core,0.05894736842105263,0.284,C
+S9070373,Nano-Micro Letters,Springer Science+Business Media,Materials Engineering,1807,39,core,0.9994465965688988,1.0,A
+S2764917516,Nature Reviews Materials,Nature Portfolio,Materials Engineering,562,0,emergent,0.0071174377224199285,0.0498220640569395,C
+S143846845,Nano Letters,American Chemical Society,Materials Engineering,15431,1097,core,0.9995463677013804,0.9995463677013804,A
+S112674977,Composites Part B: Engineering,Elsevier BV,Materials Engineering,8652,537,core,0.0651872399445215,0.37921867776236706,C
+S2764646681,Nanomaterials,Multidisciplinary Digital Publishing Institute,Materials Engineering,21208,134,core,0.9999056959637872,0.9999056959637872,A
+S188605413,Carbon,Elsevier BV,Materials Engineering,11725,885,core,0.060127931769722816,0.3722814498933902,C
+S18714766,Materials,Multidisciplinary Digital Publishing Institute,Materials Engineering,52113,587,core,0.9994818951125439,0.9994818951125439,A
+S2898508902,Bioactive Materials,Elsevier BV,Materials Engineering,2537,0,emergent,0.9810800157666535,0.9810800157666535,A
+S52363224,Composite Structures,Elsevier BV,Mechanical Engineering,12251,774,core,0.07166761896988001,0.4011917394498408,C
+S72716621,International Journal of Mechanical Sciences,Elsevier BV,Mechanical Engineering,6885,289,core,0.06318082788671024,0.36107480029048655,C
+S24284137,Tribology International,Elsevier BV,Mechanical Engineering,7299,465,core,0.08316207699684888,0.26935196602274286,C
+S152303250,Engineering Failure Analysis,Elsevier BV,Mechanical Engineering,7125,212,core,0.05263157894736842,0.24350877192982456,C
+S105775785,Journal of the Mechanics and Physics of Solids,Elsevier BV,Mechanical Engineering,3023,180,core,0.1554746940125703,0.3800860072775389,C
+S179906512,Theoretical and Applied Fracture Mechanics,Elsevier BV,Mechanical Engineering,3379,103,core,0.07339449541284404,0.32050902633915357,C
+S6785741,Mechanism and Machine Theory,Elsevier BV,Mechanical Engineering,3151,175,core,0.0904474769914313,0.36877181847032686,C
+S16737290,Wear,Elsevier BV,Mechanical Engineering,4560,245,core,0.1006578947368421,0.2050438596491228,C
+S189344224,International Journal of Solids and Structures,Elsevier BV,Mechanical Engineering,4252,335,core,0.11688617121354657,0.35206961429915334,C
+S87569533,Mechanics of Advanced Materials and Structures,Taylor & Francis,Mechanical Engineering,3753,120,core,0.9989341859845456,0.9992006394884093,A
+S2736340094,Friction,Springer Nature,Mechanical Engineering,1099,27,core,0.997270245677889,0.997270245677889,A
+S102630943,International Journal of Engineering Science,Elsevier BV,Mechanical Engineering,1211,79,core,0.129644921552436,0.47068538398018167,C
+S1574008,Mechanics Based Design of Structures and Machines,Taylor & Francis,Mechanical Engineering,1889,17,emergent,0.9984118581259925,0.9984118581259925,A
+S88457320,Journal of Mechanical Design,American Society of Mechanical Engineers,Mechanical Engineering,1761,133,core,0.9931856899488927,0.9931856899488927,A
+S59320183,Vehicle System Dynamics,Taylor & Francis,Mechanical Engineering,1353,89,core,0.9985218033998522,1.0,A
+S76397174,Journal of the Brazilian Society of Mechanical Sciences and Engineering,Springer Science+Business Media,Mechanical Engineering,5645,175,core,0.07280779450841453,0.08131089459698848,C
+S4220650901,Chinese Journal of Mechanical Engineering,China Machine Press,Mechanical Engineering,1534,90,core,0.7646675358539765,0.7666232073011734,B
+S197285952,European Journal of Mechanics-A/Solids,Elsevier BV,Mechanical Engineering,2337,107,core,0.1317928968763372,0.4287548138639281,C
+S4210175206,"Facta Universitatis, Series: Mechanical Engineering",University of Niš,Mechanical Engineering,404,0,emergent,1.0,1.0,A
+S184816971,International Journal of Production Economics,Elsevier BV,Operations Research,3194,229,core,0.11020663744520977,0.3591108328115216,C
+S103321696,European Journal of Operational Research,Elsevier BV,Operations Research,7148,524,core,0.18592613318410744,0.5765249020705092,C
+S57667410,Annals of Operations Research,Springer Science+Business Media,Operations Research,4924,296,core,0.18663688058489034,0.2778229082047116,C
+S165057322,Production Planning & Control,Taylor & Francis,Operations Research,1088,63,core,0.9981617647058824,0.9981617647058824,A
+S149070780,Production and Operations Management,Wiley,Operations Research,2103,130,core,0.9163100332857822,0.920114122681883,A
+S81410195,Manufacturing & Service Operations Management,Institute for Operations Research and the Management Sciences,Operations Research,1021,28,core,0.9774730656219393,0.9774730656219393,A
+S173256270,Computers & Operations Research,Elsevier BV,Operations Research,2872,200,core,0.15633704735376044,0.38474930362116994,C
+S164321952,International Journal of Operations & Production Management,Emerald Publishing Limited,Operations Research,928,50,core,0.9827586206896551,0.9827586206896551,A
+S193920097,Mathematical Programming,Springer Science+Business Media,Operations Research,1406,97,core,0.2496443812233286,0.6422475106685633,C
+S59007373,Supply Chain Management: An International Journal,Emerald Publishing Limited,Operations Research,542,31,core,0.9981549815498155,0.9981549815498155,A
+S97048498,The International Journal of Logistics Management,Emerald Publishing Limited,Operations Research,685,30,core,0.9941605839416059,0.9941605839416059,A
+S125775545,Operations Research,Institute for Operations Research and the Management Sciences,Operations Research,1524,94,core,0.9422572178477691,0.949475065616798,A
+S4210220312,International Journal of Logistics Research and Applications,Taylor & Francis,Operations Research,624,24,core,0.9983974358974359,0.9983974358974359,A
+S142306484,Journal of Operations Management,Wiley,Operations Research,484,20,core,0.9297520661157025,0.9318181818181818,A
+S169988927,Journal of the Operational Research Society,Palgrave Macmillan,Operations Research,1733,114,core,0.9971148297749567,0.9982688978649741,A
+S130252234,Transportation Science,Institute for Operations Research and the Management Sciences,Operations Research,800,55,core,0.99375,0.99375,A
+S59604973,IEEE Transactions on Smart Grids,Institute of Electrical and Electronics Engineers,Power Engineering,4975,345,core,0.9678391959798995,0.9682412060301507,A
+S29875816,IEEE Transactions on Power Electronics,Institute of Electrical and Electronics Engineers,Power Engineering,12701,808,core,0.9692937563971341,0.97157704117786,A
+S201921491,IEEE Transactions on Power Systems,Institute of Electrical and Electronics Engineers,Power Engineering,5681,373,core,0.9663791585988383,0.9672592853370885,A
+S168377509,International Journal of Electrical Power & Energy Systems,Elsevier BV,Power Engineering,7517,338,core,0.31701476652920046,0.5693760808833311,B
+S201762130,IEEE Transactions on Sustainable Energy,Institute of Electrical and Electronics Engineers,Power Engineering,2458,189,core,0.950366151342555,0.95240032546786,A
+S2764857692,IEEE Journal of Emerging and Selected Topics in Power Electronics,Institute of Electrical and Electronics Engineers,Power Engineering,4335,125,core,0.9783160322952711,0.9803921568627451,A
+S4306422867,IEEE Transactions on Transportation Electrification,Institute of Electrical and Electronics Engineers,Power Engineering,3773,43,core,0.9830373707924729,0.9838324940365757,A
+S151498627,Electric Power Systems Research,Elsevier BV,Power Engineering,7451,259,core,0.08723661253523017,0.26493088176083746,C
+S203966947,IEEE Transactions on Power Delivery,Institute of Electrical and Electronics Engineers,Power Engineering,3828,248,core,0.946969696969697,0.9482758620689655,A
+S64770346,IEEE Transactions on Energy Conversion,Institute of Electrical and Electronics Engineers,Power Engineering,2709,174,core,0.9538575119970469,0.9549649317091178,A
+S4210194934,Journal of Modern Power Systems and Clean Energy,Springer Nature,Power Engineering,1446,1,emergent,0.9993084370677732,0.9993084370677732,A
+S2764607435,CSEE Journal of Power and Energy Systems,China Electric Power Research Institute,Power Engineering,1312,49,core,0.9016768292682927,0.9047256097560976,A
+S2500072609,International Transactions on Electrical Energy Systems,Wiley,Power Engineering,2818,86,core,0.9428672817601136,0.9428672817601136,A
+S2493549543,"Sustainable Energy, Grids and Networks",Elsevier BV,Power Engineering,1773,39,core,0.22447828539199097,0.32825719120135366,C
+S71857517,"IET Generation, Transmission & Distribution",Institution of Engineering and Technology,Power Engineering,4548,222,core,0.9991204925241864,0.9993403693931399,A
+S2737292043,Protection and Control of Modern Power Systems,Springer Science+Business Media,Power Engineering,465,0,emergent,0.9956989247311828,0.9956989247311828,A
+S42668443,IET Renewable Power Generation,Institution of Engineering and Technology,Power Engineering,2783,129,core,0.9992813510600072,0.9992813510600072,A
+S4210222834,High Voltage,Institution of Engineering and Technology,Power Engineering,861,0,emergent,0.991869918699187,0.9930313588850174,A
+S19003042,IEEE Transactions on Dielectrics and Electrical Insulation,Institute of Electrical and Electronics Engineers,Power Engineering,4336,287,core,0.9695571955719557,0.9727859778597786,A
+S40006715,Computer Methods in Applied Mechanics and Engineering,Elsevier BV,Structural Engineering,6506,280,core,0.1756839840147556,0.5318167845066093,C
+S165454098,Engineering Structures,Elsevier BV,Structural Engineering,14860,586,core,0.10551816958277255,0.3414535666218035,C
+S205118121,Thin-Walled Structures,Elsevier BV,Structural Engineering,7891,307,core,0.05816753263211253,0.32137878595868713,C
+S2898442875,Structures,Elsevier BV,Structural Engineering,10772,69,core,0.07547344968436688,0.1675640549572967,C
+S48050435,Structural and Multidisciplinary Optimization,Springer Science+Business Media,Structural Engineering,2926,161,core,0.14388243335611756,0.18489405331510594,C
+S154695693,Journal of Constructional Steel Research,Elsevier BV,Structural Engineering,5324,289,core,0.050713749060856496,0.17843726521412473,C
+S144568777,Bulletin of Earthquake Engineering,Springer Science+Business Media,Structural Engineering,2457,139,core,0.21611721611721613,0.25722425722425724,C
+S93312259,Journal of Structural Engineering,American Society of Civil Engineers,Structural Engineering,3083,219,core,0.9753486863444697,0.9763217645150827,A
+S4210219247,Structural Control and Health Monitoring,Wiley,Structural Engineering,1731,85,core,0.9907567879838244,0.997689196995956,A
+S131433835,Structural Concrete,Wiley,Structural Engineering,2877,68,core,0.9516857838025721,0.956551963851234,A
+S111482492,Computers & Structures,Elsevier BV,Structural Engineering,1940,110,core,0.1402061855670103,0.34484536082474226,C
+S85672143,"Steel and Composite Structures, An International Journal",Technopress,Structural Engineering,1309,0,emergent,0.970970206264324,0.970970206264324,A
+S194562448,Earthquake Engineering & Structural Dynamics,Wiley,Structural Engineering,1774,76,core,0.992108229988726,0.9966178128523112,A
+S28058569,Structure and Infrastructure Engineering,Taylor & Francis,Structural Engineering,1420,66,core,0.9992957746478873,0.9992957746478873,A
+S147854436,Computational Mechanics,Springer Science+Business Media,Structural Engineering,1578,122,core,0.30038022813688214,0.385297845373891,B
+S2597036347,Frontiers in Built Environment,Frontiers Media,Structural Engineering,1749,23,core,0.9982847341337907,0.9982847341337907,A
+S5226199,Engineering Analysis with Boundary Elements,Elsevier BV,Structural Engineering,3279,161,core,0.030497102775236352,0.19640134187252212,C
+S1507157,Structural Safety,Elsevier BV,Structural Engineering,725,48,core,0.1503448275862069,0.3393103448275862,C
+S165651092,International Journal for Numerical Methods in Engineering,Wiley,Structural Engineering,2601,194,core,0.9953863898500577,0.9961553248750481,A
+S68497187,Renewable and Sustainable Energy Reviews,Elsevier BV,Sustainable Energy,11140,681,core,0.15538599640933573,0.3779174147217235,C
+S109565702,Applied Energy,Elsevier BV,Sustainable Energy,18968,1433,core,0.14313580767608605,0.32465204555040067,C
+S2764528046,Nature Energy,Nature Portfolio,Sustainable Energy,2183,0,emergent,0.07741639945029775,0.11268896014658726,C
+S2497375143,Energy,Elsevier BV,Sustainable Energy,31568,1432,core,0.06896224024328435,0.24363279270146984,C
+S815301,Renewable Energy,Elsevier BV,Sustainable Energy,17976,948,core,0.09573876279483756,0.32376502002670227,C
+S2898305631,Joule,Elsevier BV,Sustainable Energy,2025,0,emergent,0.0874074074074074,0.5022222222222222,C
+S48860480,International Journal of Hydrogen Energy,Elsevier BV,Sustainable Energy,36863,1859,core,0.08461058513957084,0.27246832867645066,C
+S2764865925,Journal of Energy Storage,Elsevier BV,Sustainable Energy,17980,55,core,0.08342602892102335,0.18704115684093436,C
+S105637730,Energy Conversion and Management,Elsevier BV,Sustainable Energy,12744,1034,core,0.08937539234149404,0.30045511613308223,C
+S198098182,Energies,Multidisciplinary Digital Publishing Institute,Sustainable Energy,58293,740,core,0.9997769886607312,0.9997769886607312,A
+S177147899,Journal of Power Sources,Elsevier BV,Sustainable Energy,16510,1159,core,0.08897637795275591,0.2868564506359782,C
+S2898434319,Energy Reports,Elsevier BV,Sustainable Energy,8722,15,emergent,0.9837193304288008,0.984177940839257,A
+S6846437,Energy and Buildings,Elsevier BV,Sustainable Energy,9862,691,core,0.14844859054958426,0.32021902251064693,C
+S5745031,Solar Energy,Elsevier BV,Sustainable Energy,9522,578,core,0.07246376811594203,0.400861163621088,C
+S2764877105,Sustainable Energy Technologies and Assessments,Elsevier BV,Sustainable Energy,4149,50,core,0.08749096167751265,0.23282718727404195,C
+S32776067,International Journal of Energy Research,Wiley,Sustainable Energy,6329,163,core,0.9943118976141571,0.996681940274925,A
+S2764923638,Biomass Conversion and Biorefinery,Springer Nature,Sustainable Energy,6610,37,core,0.10302571860816943,0.1161875945537065,C
+S171918450,Biomass and Bioenergy,Elsevier BV,Sustainable Energy,4282,241,core,0.1342830453059318,0.24778141055581504,C
+S144771191,IEEE Transactions on Intelligent Transportation Systems,Institute of Electrical and Electronics Engineers,Transportation,9316,304,core,0.9917346500644053,0.9935594675826535,A
+S64511102,Transportation Research Part C: Emerging Technologies,Elsevier BV,Transportation,3525,223,core,0.17446808510638298,0.35319148936170214,C
+S45181156,Transportation Research Part D: Transport and Environment,Elsevier BV,Transportation,3453,149,core,0.22212568780770345,0.41905589342600635,C
+S173966628,Transportation Research Part E: Logistics and Transportation Review,Elsevier BV,Transportation,2806,147,core,0.101568068424804,0.26407697790449036,C
+S159637997,Transportation Research Part A: Policy and Practice,Elsevier BV,Transportation,3018,191,core,0.22697150430748841,0.449635520212061,C
+S188336720,Accident Analysis & Prevention,Elsevier BV,Transportation,3675,230,core,0.10040816326530612,0.6081632653061224,C
+S4210199657,IEEE Transactions on Intelligent Vehicles,Institute of Electrical and Electronics Engineers,Transportation,2170,0,emergent,0.9308755760368663,0.932258064516129,A
+S186558940,Transport Policy,Elsevier BV,Transportation,2403,129,core,0.20807324178110695,0.5160216396171452,C
+S4210230100,Transportation Research Interdisciplinary Perspectives,Elsevier BV,Transportation,1595,0,emergent,0.993103448275862,0.993103448275862,A
+S80150607,Journal of Transport Geography,Elsevier BV,Transportation,2330,145,core,0.22360515021459226,0.44163090128755367,C
+S96305778,Transportation Research Part B: Methodological,Elsevier BV,Transportation,1778,114,core,0.11698537682789652,0.4904386951631046,C
+S99242495,Journal of Air Transport Management,Elsevier BV,Transportation,1365,85,core,0.136996336996337,0.4945054945054945,C
+S51141438,Transportation Research Part F: Traffic Psychology and Behaviour,Elsevier BV,Transportation,2632,130,core,0.23822188449848025,0.5771276595744681,C
+S194388667,Transport Reviews,Taylor & Francis,Transportation,491,27,core,0.9959266802443992,0.9959266802443992,A
+S2764874763,Travel Behaviour and Society,Elsevier BV,Transportation,1084,23,core,0.261070110701107,0.42343173431734316,C
+S4210225447,eTransportation,Elsevier BV,Transportation,457,0,emergent,0.1575492341356674,0.34573304157549234,C
+S4210184358,Smart Cities,Multidisciplinary Digital Publishing Institute,Transportation,785,0,emergent,1.0,1.0,A
+S62009534,Transportation,Springer Science+Business Media,Transportation,1076,71,core,0.30390334572490707,0.36895910780669144,B

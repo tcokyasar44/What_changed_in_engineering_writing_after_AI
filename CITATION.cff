@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the article and this replication package."
+title: "Replication package: What Changed in Engineering Writing After Generative AI Chat Assistants"
+type: software
+version: "1.0.0"
+date-released: "2026-11-07"
+license: MIT
+authors:
+  - family-names: Cokyasar
+    given-names: Taner
+    affiliation: "Texas A&M University"
+    email: tcokyasar@tamu.edu
+keywords:
+  - bibliometrics
+  - scholarly writing
+  - large language models
+  - OpenAlex
+  - interrupted time series
+abstract: >-
+  Code and data that build a corpus of 1.84 million research articles from 256
+  engineering journals (2015-2025) from OpenAlex, recover missing abstracts, measure
+  word use in abstracts and in a sample of full texts, and estimate departures from
+  pre-2023 trends after the release of ChatGPT.
+# After creating the GitLab project and the Zenodo deposit, add:
+# repository-code: "https://gitlab.com/<namespace>/<project>"
+# doi: "10.5281/zenodo.<record>"
