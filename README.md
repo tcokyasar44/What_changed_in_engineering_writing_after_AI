@@ -13,7 +13,7 @@ by the deterministic code in this repository.
 | Folder | Contents |
 |---|---|
 | `scripts/` | Builds the corpus: 1,839,962 research articles published 2015–2025 in 256 engineering journals |
-| `analysis/` | Measures abstracts, records and full texts; fits the time-series models; draws the figures |
+| `analysis/` | Measures abstracts, records and full texts; fits the time-series models; draws the figures. `analysis/out/` holds the computed result tables (CSV and JSON) that the article reports; a rerun overwrites them |
 | `data/` | The journal panel and every exclusion, the identifiers of all articles, verification results |
 | `fulltext/` | The record of the full-text sample (one row per drawn article) and the retrieval code as run |
 | `tests/` | Offline tests (no network, no key) |

@@ -1,0 +1,14 @@
+{
+ "n": 12873,
+ "before": 5400,
+ "after": 7473,
+ "journals": 250,
+ "publishers": 29,
+ "substitute_share": 0.18162044589450788,
+ "publisher_copies": 2756,
+ "publisher_copies_before": 1004,
+ "from_memory": 1330,
+ "from_browser": 1098,
+ "excluded_by_quality": 85,
+ "disclosure_before_2022_count": 0
+}

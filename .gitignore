@@ -10,7 +10,10 @@ data/recovered_abstracts.parquet
 data/recovery_attempts.csv
 data/api_cache.json
 data/watchdog_status.json
-analysis/out/
+analysis/out/*
+!analysis/out/*.csv
+!analysis/out/*.json
+analysis/out/diag_*
 fulltext/pdf/
 
 # Logs and Python artefacts
