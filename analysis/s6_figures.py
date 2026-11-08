@@ -2,8 +2,8 @@
 Step 6. Every figure in the paper, from the clean outputs only.
 
 Conventions requested by the author: no plot titles; every text element the same
-size (16 pt), except the vocabulary scatter, which is printed small and so uses 32 pt
-(22 pt for its word labels); 'words', never
+size (16 pt), except the vocabulary scatter, which is printed at about half size and so uses 20 pt
+(17 pt for its word labels); 'words', never
 'tokens'; x axis 'Time of publication'; Times New Roman. Monthly series exclude
 records dated 1 January. Lines are drawn without the calendar-month component, so
 the projection is a smooth trend rather than a zigzag; there is no fitted
@@ -56,8 +56,8 @@ fig.tight_layout(); fig.savefig(os.path.join(FIG, "fig_marker_words.pdf"), dpi=3
 ex = pd.read_csv(os.path.join(OUT, "excess_vocabulary.csv"))
 ex = ex[ex.ratio.notna()]
 bg = ex[ex.kind == "other"]; mk = ex[ex.kind == "marker"]; ct = ex[ex.kind == "control"]
-FS2 = 2 * FS                     # this figure is printed small, so its text is doubled
-fig, ax = plt.subplots(figsize=(12, 10))   # same width as before, so printed text is twice as large
+FS2 = 20                         # printed at about half size: axis text about 10 pt, labels about 9 pt
+fig, ax = plt.subplots(figsize=(12, 10))   # printed at 0.95 of the text width
 ax.scatter(bg.cf, bg.ratio, s=6, color="0.75", lw=0, label="All other words", rasterized=True)
 sm = ax.scatter(mk.cf, mk.ratio, s=140, facecolor="none", edgecolor="black", marker="^", lw=1.8,
                 label="Marker words")
@@ -92,9 +92,19 @@ POS.update({
 lab = pd.concat([mk, ct])
 for r in lab.itertuples():
     lx, ly = POS.get(r.label, (np.log10(r.cf) + 0.08, np.log10(r.ratio)))
-    ax.annotate(r.label, xy=(r.cf, r.ratio), xytext=(10 ** lx, 10 ** ly), fontsize=22,
+    px, py = np.log10(r.cf), np.log10(r.ratio)
+    # attach the leader to the side of the label that faces the point, so it never
+    # runs through the text
+    if ly < py - 0.3 and lx < px:
+        rel = (0.5, 1.0) if px - lx < 0.6 else (1.0, 0.5)
+    elif lx + 0.3 < px:
+        rel = (1.0, 0.5)
+    else:
+        rel = (0.0, 0.5)
+    ax.annotate(r.label, xy=(r.cf, r.ratio), xytext=(10 ** lx, 10 ** ly), fontsize=17,
                 ha="left", va="center",
-                arrowprops=dict(arrowstyle="-", color="0.45", lw=0.8, shrinkA=2, shrinkB=6))
+                arrowprops=dict(arrowstyle="-", color="0.45", lw=0.8, shrinkA=0, shrinkB=6,
+                                relpos=rel))
 ax.set_xlim(10 ** -0.15, 10 ** 5)
 fig.savefig(os.path.join(FIG, "fig_excess_vocabulary.pdf"), dpi=300); plt.close(fig)
 
