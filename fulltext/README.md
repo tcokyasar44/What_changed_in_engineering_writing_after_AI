@@ -16,12 +16,29 @@ results can be reproduced without any PDF.
 
 ## How the sample was drawn
 
-The target was 10,000 analysed articles, allocated to journal-year cells. Articles
-published from 2023 were given 2.2 times their share, so the after-release side is
-estimated precisely; the analysis weights every article by (corpus articles in its
-journal-year) / (analysed articles in that journal-year), which removes that tilt.
-Within a cell, articles were always drawn at random, never chosen for being easy to
-obtain. Five draws were made:
+The sample is a random subsample of the same corpus the abstract analysis uses.
+
+- **Within each year**, every journal's share of the sample matches its share of that
+  year's articles (journals with fewer than 20 articles in a year get no allocation).
+- **Across years**, each year's allocation is proportional to its corpus size times a
+  weight: 0.6 (2015 to 2017), 0.7 (2018), 0.8 (2019, 2020), 0.9 (2021), 1.0 (2022),
+  and 2.2 (2023 to 2025). The after-release side covers three years against eight, so
+  it is sampled at a higher rate to be estimated as precisely as the before side.
+  The resulting design rates are about 0.21% of 2015 articles, rising to 0.41% of
+  2022 articles, and 0.90% of each year from 2023 to 2025.
+- **The target** was 10,000 analyzed articles (3,617 before 2023 and 6,383 after),
+  allocated to 2,726 journal-year cells by largest remainder
+  (`build_target_quota.py`). Within a cell, articles were always drawn at random,
+  never chosen for being easy to obtain.
+- **All measured articles are kept.** Refill draws were retrieved in full rather than
+  stopped at each cell's quota, so the analyzed sample is larger than 10,000 and some
+  cells exceed their quota while others fall short. The analysis weights every article
+  by (corpus articles in its journal-year) / (analyzed articles in that journal-year),
+  which removes both the higher rate after 2022 and the uneven filling.
+- Seven documents downloaded in a browser matched no draw file (`draw` =
+  `browser_only`); they stay in the record but are not analyzed.
+
+Five draws were made:
 
 | Draw | Script | What it drew |
 |---|---|---|

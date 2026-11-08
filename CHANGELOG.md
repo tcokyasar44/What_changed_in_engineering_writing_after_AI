@@ -1,6 +1,16 @@
 # Changes
 
-## 1.0.5 (7 November 2026): version used for the submitted article
+## 1.0.6 (7 November 2026): version used for the submitted article
+
+- Full-text results leave out seven documents downloaded in a browser that matched no
+  random draw (`draw` = `browser_only`); they stay in the record. The sample is now
+  12,866 articles and the marker change +98.6%. [`analysis/s5_fulltext_results.py`,
+  `analysis/out/fulltext_*.csv`, `analysis/out/fulltext_info.json`]
+- `fulltext/README.md` describes the sampling design in full: the within-year
+  allocation by journal, every year weight (0.6 to 1.0 before 2023, 2.2 after), the
+  10,000-article quota, and why the analyzed sample is larger than the quota.
+
+## 1.0.5 (7 November 2026)
 
 - Panel figures: every panel has the same page size, plotting box, and y-axis title
   position, so subfigures line up in the article. No result changed.

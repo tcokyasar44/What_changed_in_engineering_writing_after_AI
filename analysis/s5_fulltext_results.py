@@ -31,6 +31,9 @@ B = 1000
 
 ft = pd.read_csv(os.path.join(OUT, "fulltext_sample.csv.gz"), low_memory=False)
 ft = ft[ft.status == "ok"].copy()
+# Only articles from one of the random draws enter; a few documents downloaded in a
+# browser matched no draw file ("browser_only") and are kept in the record but not analyzed.
+ft = ft[ft.draw != "browser_only"].copy()
 for c in ("ai_mention", "ai_disclosure", "substitute", "publisher_copy"):
     ft[c] = ft[c].astype(str).str.lower().eq("true")
 art = pd.read_parquet(os.path.join(OUT, "articles.parquet"),
