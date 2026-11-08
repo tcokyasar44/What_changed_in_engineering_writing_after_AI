@@ -130,9 +130,9 @@ def panel(prefix, key, ylabel):
     # one above the other line up whatever the width of their tick labels.
     with plt.rc_context(PANEL_RC):
         fig = plt.figure(figsize=(6, 4.4))
-        ax = fig.add_axes([0.26, 0.18, 0.71, 0.78])
+        ax = fig.add_axes([0.23, 0.18, 0.74, 0.78])
         marker_axes(ax, read_cf(f"cf_{prefix}_{key}.csv"), ylabel, legend=False)
-        ax.yaxis.set_label_coords(-0.25, 0.5)
+        ax.yaxis.set_label_coords(-0.165, 0.5)
         fig.savefig(os.path.join(FIG, f"fig_{prefix}_{key}.pdf"), dpi=300)
         plt.close(fig)
 
