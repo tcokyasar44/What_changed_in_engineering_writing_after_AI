@@ -1,6 +1,12 @@
 # Changes
 
-## 1.0.4 (7 November 2026): version used for the submitted article
+## 1.0.5 (7 November 2026): version used for the submitted article
+
+- Panel figures: every panel has the same page size, plotting box, and y-axis title
+  position, so subfigures line up in the article. No result changed.
+  [`analysis/s6_figures.py`]
+
+## 1.0.4 (7 November 2026)
 
 - The style and bibliographic figures are written one panel per file
   (`fig_text_*.pdf`, `fig_meta_*.pdf`) with a shared legend (`fig_panels_legend.pdf`),
