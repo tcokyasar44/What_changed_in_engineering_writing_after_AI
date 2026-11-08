@@ -1,6 +1,13 @@
 # Changes
 
-## 1.0.2 (7 November 2026): version used for the submitted article
+## 1.0.3 (7 November 2026): version used for the submitted article
+
+- Vocabulary figure (excess ratio of every word): text sized to print close to the body
+  text, word labels placed by hand so none overlap, leader lines attached to the label
+  edges, and the legend moved below the plot. No result changed.
+  [`analysis/s6_figures.py`]
+
+## 1.0.2 (7 November 2026)
 
 - Figures: the public-release date is drawn as a dash-dot line and the months left out
   of the fit (December 2022 to February 2023) as a hatched band, and both appear in the

@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software or data, please cite the article and this replication package."
 title: "Replication package: What Changed in Engineering Writing After Generative AI Chat Assistants"
 type: software
-version: "1.0.2"
+version: "1.0.3"
 date-released: "2026-11-07"
 license: MIT
 authors:
@@ -23,6 +23,5 @@ abstract: >-
   pre-2023 trends after the release of ChatGPT.
 repository-code: "https://github.com/tcokyasar44/What_changed_in_engineering_writing_after_AI"
 # Concept DOI (all versions); version 1.0.0 is 10.5281/zenodo.24028664,
-# version 1.0.1 is 10.5281/zenodo.24046676, version 1.0.2 (cited in the article)
-# is 10.5281/zenodo.24047174
+# version 1.0.1 is 10.5281/zenodo.24046676, version 1.0.2 is 10.5281/zenodo.24047174
 doi: "10.5281/zenodo.24028663"
