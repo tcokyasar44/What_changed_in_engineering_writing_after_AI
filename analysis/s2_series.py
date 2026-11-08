@@ -172,7 +172,7 @@ desc = {
     "jan1_share_core": float(core.jan1.mean()),
     "text_months_articles": int(len(text)),
 }
-by_pub = A.groupby("publisher").agg(articles=("openalex_id", "size"), with_text=("has_text", "mean")).sort_values("articles", ascending=False)
+by_pub = A.assign(publisher=A.publisher.fillna("(no publisher recorded)")).groupby("publisher").agg(articles=("openalex_id", "size"), with_text=("has_text", "mean")).sort_values("articles", ascending=False)
 by_pub.to_csv(os.path.join(OUT, "coverage_by_publisher.csv"))
 cov_year = A.groupby("year").has_text.mean(); cov_year.to_csv(os.path.join(OUT, "coverage_by_year.csv"))
 json.dump(desc, open(os.path.join(OUT, "descriptives.json"), "w"), indent=1)
