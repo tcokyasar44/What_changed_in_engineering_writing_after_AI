@@ -1,6 +1,17 @@
 # Changes
 
-## 1.0.3 (7 November 2026): version used for the submitted article
+## 1.0.4 (7 November 2026): version used for the submitted article
+
+- The style and bibliographic figures are written one panel per file
+  (`fig_text_*.pdf`, `fig_meta_*.pdf`) with a shared legend (`fig_panels_legend.pdf`),
+  so the article can show and cite each panel. [`analysis/s6_figures.py`]
+- `analysis/out/extra_numbers.json` adds the numbers behind two statements in the
+  article: the share of late-2025 records with no reference list, and the references
+  result with the series ended in August 2025; and the change in the publisher mix
+  behind the open-access gap, including the 2025 open-access share at the 2022 mix.
+  No earlier result changed. [`analysis/s7_extra_numbers.py`]
+
+## 1.0.3 (7 November 2026)
 
 - Vocabulary figure (excess ratio of every word): text sized to print close to the body
   text, word labels placed by hand so none overlap, leader lines attached to the label
