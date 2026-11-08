@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software or data, please cite the article and this replication package."
 title: "Replication package: What Changed in Engineering Writing After Generative AI Chat Assistants"
 type: software
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-11-07"
 license: MIT
 authors:

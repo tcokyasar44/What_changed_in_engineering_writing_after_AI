@@ -1,6 +1,14 @@
 # Changes
 
-## 1.0.0 (7 November 2026): version used for the submitted article
+## 1.0.1 (7 November 2026): version used for the submitted article
+
+- `analysis/out/coverage_by_publisher.csv` now counts the 24,654 articles that have no
+  publisher recorded in OpenAlex, as "(no publisher recorded)". They were left out of
+  that table before, so its rows summed to less than the corpus. No other result
+  changed. [`analysis/s2_series.py`]
+- The README and citation file give the Zenodo DOI.
+
+## 1.0.0 (7 November 2026)
 
 An audit of the September 2026 pipeline found the defects below. Each was fixed in the
 code, the corpus was rebuilt, and every result was recomputed. The machine-readable
