@@ -125,10 +125,15 @@ PANEL_RC = {"font.size": FSP, "axes.labelsize": FSP, "xtick.labelsize": FSP,
 
 
 def panel(prefix, key, ylabel):
+    # Every panel gets the same page size and the same plotting box, and its y-axis
+    # title sits at the same distance from the axis, so panels placed side by side or
+    # one above the other line up whatever the width of their tick labels.
     with plt.rc_context(PANEL_RC):
-        fig, ax = plt.subplots(figsize=(6, 4.4))
+        fig = plt.figure(figsize=(6, 4.4))
+        ax = fig.add_axes([0.26, 0.18, 0.71, 0.78])
         marker_axes(ax, read_cf(f"cf_{prefix}_{key}.csv"), ylabel, legend=False)
-        fig.tight_layout(); fig.savefig(os.path.join(FIG, f"fig_{prefix}_{key}.pdf"), dpi=300)
+        ax.yaxis.set_label_coords(-0.25, 0.5)
+        fig.savefig(os.path.join(FIG, f"fig_{prefix}_{key}.pdf"), dpi=300)
         plt.close(fig)
 
 
