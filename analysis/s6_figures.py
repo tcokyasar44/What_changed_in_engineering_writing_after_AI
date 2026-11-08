@@ -117,33 +117,39 @@ ax.axvline(pooled, color="black", ls="--", lw=1.2)
 ax.set_xlabel("Departure from projection (%)")
 fig.tight_layout(); fig.savefig(os.path.join(FIG, "fig_by_category.pdf"), dpi=300); plt.close(fig)
 
-# Figure: style panels
-panels = [("hedge", "Qualifying words\nper 10,000 words"), ("booster", "Emphatic words\nper 10,000 words"),
-          ("long", "Share of words with\nnine or more letters"), ("ttr", "Distinct words\nper 100 words"),
-          ("fk", "Flesch-Kincaid grade"), ("len", "Abstract length\n(words)")]
-fig, axs = plt.subplots(3, 2, figsize=(12, 12), sharex=True)
-for ax, (k, lab) in zip(axs.flat, panels):
-    marker_axes(ax, read_cf(f"cf_text_{k}.csv"), lab, legend=False)
-    ax.set_xlabel("")
-for ax in axs[-1]:
-    ax.set_xlabel("Time of publication")
-h, l = axs[0, 0].get_legend_handles_labels()
-fig.legend(h, l, loc="lower center", ncol=2, frameon=False)
-fig.tight_layout(rect=(0, 0.07, 1, 1)); fig.savefig(os.path.join(FIG, "fig_style_panels.pdf"), dpi=300); plt.close(fig)
+# Figures: style and bibliographic measures, one file per panel so the article can
+# place them as subfigures (a) to (f) and refer to each; one shared legend file.
+FSP = 18                          # panels print at about half the text width
+PANEL_RC = {"font.size": FSP, "axes.labelsize": FSP, "xtick.labelsize": FSP,
+            "ytick.labelsize": FSP, "legend.fontsize": FSP}
 
-# Figure: bibliographic panels
-panels = [("n_articles", "Articles per month"), ("n_authors", "Authors per article"),
-          ("n_references", "References per article"), ("n_pages", "Pages per article"),
-          ("colon", "Share of titles\nwith a colon"), ("oa", "Open access share")]
-fig, axs = plt.subplots(3, 2, figsize=(12, 12), sharex=True)
-for ax, (k, lab) in zip(axs.flat, panels):
-    marker_axes(ax, read_cf(f"cf_meta_{k}.csv"), lab, legend=False)
-    ax.set_xlabel("")
-for ax in axs[-1]:
-    ax.set_xlabel("Time of publication")
-h, l = axs[0, 0].get_legend_handles_labels()
-fig.legend(h, l, loc="lower center", ncol=2, frameon=False)
-fig.tight_layout(rect=(0, 0.07, 1, 1)); fig.savefig(os.path.join(FIG, "fig_metadata_panels.pdf"), dpi=300); plt.close(fig)
+
+def panel(prefix, key, ylabel):
+    with plt.rc_context(PANEL_RC):
+        fig, ax = plt.subplots(figsize=(6, 4.4))
+        marker_axes(ax, read_cf(f"cf_{prefix}_{key}.csv"), ylabel, legend=False)
+        fig.tight_layout(); fig.savefig(os.path.join(FIG, f"fig_{prefix}_{key}.pdf"), dpi=300)
+        plt.close(fig)
+
+
+for key, lab in [("hedge", "Qualifying words\nper 10,000 words"), ("booster", "Emphatic words\nper 10,000 words"),
+                 ("long", "Share of words with\nnine or more letters"), ("ttr", "Distinct words\nper 100 words"),
+                 ("fk", "Flesch-Kincaid grade"), ("len", "Abstract length\n(words)")]:
+    panel("text", key, lab)
+for key, lab in [("n_articles", "Articles per month"), ("n_authors", "Authors per article"),
+                 ("n_references", "References per article"), ("n_pages", "Pages per article"),
+                 ("colon", "Share of titles\nwith a colon"), ("oa", "Open access share")]:
+    panel("meta", key, lab)
+
+# Shared legend for the panel figures
+with plt.rc_context(PANEL_RC):
+    fig, ax = plt.subplots(figsize=(12, 1.2))
+    marker_axes(ax, read_cf("cf_text_hedge.csv"), "", legend=False)
+    h, l = ax.get_legend_handles_labels()
+    fig.clf()
+    fig.legend(h, l, loc="center", ncol=3, frameon=False)
+    fig.savefig(os.path.join(FIG, "fig_panels_legend.pdf"), dpi=300, bbox_inches="tight")
+    plt.close(fig)
 
 # Figure: corresponding-author country group (diagnostic only, written to out/)
 fig, ax = plt.subplots(figsize=(10, 5.6))

@@ -57,5 +57,29 @@
   "vital": -10.1
  },
  "journals_falling_2025H1_H2_share": 0.6036866359447005,
- "volume_growth_pct": 70.01604587610981
+ "volume_growth_pct": 70.01604587610981,
+ "refs_zero_share_2025_jan_aug_range": [
+  0.0035806198948192904,
+  0.01838180647079225
+ ],
+ "refs_zero_share_2025_dec": 0.061264724727684954,
+ "refs_mean_with_list_2025_jan_aug_range": [
+  55.4434638720353,
+  57.248435291742375
+ ],
+ "refs_mean_with_list_2025_dec": 48.92848892155833,
+ "refs_departure_full_pct": -3.424747946972728,
+ "refs_trend_change_p_full": 0.08245550454885339,
+ "refs_departure_to_aug2025_pct": -1.7108890833392953,
+ "refs_trend_change_p_to_aug2025": 0.04922895858666821,
+ "mdpi_share_2022": 0.2901259435162412,
+ "mdpi_share_2025": 0.1937180610147409,
+ "elsevier_share_2022": 0.4043126113137139,
+ "elsevier_share_2025": 0.46912949896782885,
+ "mdpi_oa_share_2025": 1.0,
+ "elsevier_oa_share_2025": 0.2567319059503481,
+ "oa_share_2022": 0.4830644135357476,
+ "oa_share_2023": 0.4951265747594279,
+ "oa_share_2025": 0.42394284984880565,
+ "oa_share_2025_at_2022_mix": 0.48695555425681986
 }

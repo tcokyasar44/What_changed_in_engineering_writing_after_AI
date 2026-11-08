@@ -73,5 +73,37 @@ v = pd.read_csv(os.path.join(OUT, "cf_meta_n_articles.csv"), parse_dates=["month
 out["volume_growth_pct"] = float(100 * (v[v.month >= pd.Timestamp("2023-01-01")].value.mean()
                                         / v[v.month < pd.Timestamp("2023-01-01")].value.mean() - 1))
 
+# References: the newest records are incomplete. Share with no reference list, and the
+# references result with the series ended in August 2025.
+cm = core[~core.jan1]
+r25 = cm[cm.year == 2025].assign(mon=lambda d: d.month.dt.month)
+zero = r25.groupby("mon").n_references.apply(lambda s: float((s.fillna(0) == 0).mean()))
+out["refs_zero_share_2025_jan_aug_range"] = [float(zero.loc[1:8].min()), float(zero.loc[1:8].max())]
+out["refs_zero_share_2025_dec"] = float(zero.loc[12])
+withref = r25[r25.n_references.fillna(0) > 0].groupby("mon").n_references.mean()
+out["refs_mean_with_list_2025_jan_aug_range"] = [float(withref.loc[1:8].min()), float(withref.loc[1:8].max())]
+out["refs_mean_with_list_2025_dec"] = float(withref.loc[12])
+rs = pd.read_csv(os.path.join(OUT, "cf_meta_n_references.csv"), parse_dates=["month"])[["month", "value"]]
+full, _ = M.fit(rs)
+cut, _ = M.fit(rs, cutoff=pd.Timestamp("2025-09-01"))
+out["refs_departure_full_pct"], out["refs_trend_change_p_full"] = full["departure_pct"], full["slope_p"]
+out["refs_departure_to_aug2025_pct"], out["refs_trend_change_p_to_aug2025"] = cut["departure_pct"], cut["slope_p"]
+
+# Open access: change in the publisher mix and in recorded open-access status.
+cm = cm.assign(publisher=cm.publisher.fillna("(no publisher recorded)"))
+pub = pd.crosstab(cm.year, cm.publisher, normalize="index")
+for name, key in [("Multidisciplinary Digital Publishing Institute", "mdpi"), ("Elsevier BV", "elsevier")]:
+    out[f"{key}_share_2022"], out[f"{key}_share_2025"] = float(pub.loc[2022, name]), float(pub.loc[2025, name])
+oa_pub = cm.pivot_table(index="year", columns="publisher", values="is_oa", aggfunc="mean")
+out["mdpi_oa_share_2025"] = float(oa_pub.loc[2025, "Multidisciplinary Digital Publishing Institute"])
+out["elsevier_oa_share_2025"] = float(oa_pub.loc[2025, "Elsevier BV"])
+oa_y = cm.groupby("year").is_oa.mean()
+out["oa_share_2022"], out["oa_share_2023"], out["oa_share_2025"] = (float(oa_y.loc[2022]), float(oa_y.loc[2023]),
+                                                                  float(oa_y.loc[2025]))
+# 2025 open-access share if each publisher kept its 2022 share of articles
+w22 = pub.loc[2022]; oa25 = oa_pub.loc[2025].reindex(w22.index)
+ok = oa25.notna()
+out["oa_share_2025_at_2022_mix"] = float((w22[ok] * oa25[ok]).sum() / w22[ok].sum())
+
 json.dump(out, open(os.path.join(OUT, "extra_numbers.json"), "w"), indent=1)
 print(json.dumps(out, indent=1))
