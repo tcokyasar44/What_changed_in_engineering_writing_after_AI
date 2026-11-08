@@ -33,11 +33,13 @@ def read_cf(name):
 
 
 def marker_axes(ax, d, ylabel, legend=True, obs_label="Observed"):
-    ax.axvspan(pd.Timestamp("2022-12-01"), pd.Timestamp("2023-02-28"), color="0.88", lw=0)
-    ax.axvline(pd.Timestamp("2022-11-30"), color="0.3", ls="--", lw=1)
-    ax.fill_between(d.month, d.cf_lo_s, d.cf_hi_s, color="0.8", alpha=.6, lw=0, label="95% prediction interval")
-    ax.plot(d.month, d.cf_s, color="0.35", ls=":", lw=2.2, label="Projection of pre-2023 trend")
     ax.plot(d.month, d.value, color="black", lw=1.6, label=obs_label)
+    ax.plot(d.month, d.cf_s, color="0.35", ls=":", lw=2.2, label="Projection of pre-2023 trend")
+    ax.fill_between(d.month, d.cf_lo_s, d.cf_hi_s, color="0.8", alpha=.6, lw=0, label="95% prediction interval")
+    ax.axvline(pd.Timestamp("2022-11-30"), color="black", ls="-.", lw=1.3,
+               label="Public release (November 30, 2022)")
+    ax.axvspan(pd.Timestamp("2022-12-01"), pd.Timestamp("2023-02-28"), facecolor="none", edgecolor="0.45",
+               hatch="////", lw=0, label="Months left out of the fit (Dec. 2022 to Feb. 2023)")
     ax.set_xlabel("Time of publication"); ax.set_ylabel(ylabel)
     if legend:
         ax.legend(frameon=False, loc="upper left")
@@ -86,8 +88,8 @@ for ax, (k, lab) in zip(axs.flat, panels):
 for ax in axs[-1]:
     ax.set_xlabel("Time of publication")
 h, l = axs[0, 0].get_legend_handles_labels()
-fig.legend(h, l, loc="lower center", ncol=3, frameon=False)
-fig.tight_layout(rect=(0, 0.04, 1, 1)); fig.savefig(os.path.join(FIG, "fig_style_panels.pdf"), dpi=300); plt.close(fig)
+fig.legend(h, l, loc="lower center", ncol=2, frameon=False)
+fig.tight_layout(rect=(0, 0.07, 1, 1)); fig.savefig(os.path.join(FIG, "fig_style_panels.pdf"), dpi=300); plt.close(fig)
 
 # Figure: bibliographic panels
 panels = [("n_articles", "Articles per month"), ("n_authors", "Authors per article"),
@@ -100,8 +102,8 @@ for ax, (k, lab) in zip(axs.flat, panels):
 for ax in axs[-1]:
     ax.set_xlabel("Time of publication")
 h, l = axs[0, 0].get_legend_handles_labels()
-fig.legend(h, l, loc="lower center", ncol=3, frameon=False)
-fig.tight_layout(rect=(0, 0.04, 1, 1)); fig.savefig(os.path.join(FIG, "fig_metadata_panels.pdf"), dpi=300); plt.close(fig)
+fig.legend(h, l, loc="lower center", ncol=2, frameon=False)
+fig.tight_layout(rect=(0, 0.07, 1, 1)); fig.savefig(os.path.join(FIG, "fig_metadata_panels.pdf"), dpi=300); plt.close(fig)
 
 # Figure: corresponding-author country group (diagnostic only, written to out/)
 fig, ax = plt.subplots(figsize=(10, 5.6))
