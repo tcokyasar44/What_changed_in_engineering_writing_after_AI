@@ -1,6 +1,12 @@
 # Changes
 
-## 1.0.1 (7 November 2026): version used for the submitted article
+## 1.0.2 (7 November 2026): version used for the submitted article
+
+- Figures: the public-release date is drawn as a dash-dot line and the months left out
+  of the fit (December 2022 to February 2023) as a hatched band, and both appear in the
+  legend. No result changed. [`analysis/s6_figures.py`]
+
+## 1.0.1 (7 November 2026)
 
 - `analysis/out/coverage_by_publisher.csv` now counts the 24,654 articles that have no
   publisher recorded in OpenAlex, as "(no publisher recorded)". They were left out of
