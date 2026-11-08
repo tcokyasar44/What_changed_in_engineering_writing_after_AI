@@ -135,6 +135,13 @@ yr = ft.groupby("year").apply(lambda g: pd.Series({"n": len(g), "disclosure_pct"
                                                     "mention_pct": 100 * np.average(g.ai_mention, weights=g.w),
                                                     "marker": 1e4 * (g.w * g.marker).sum() / (g.w * g.body_words).sum()}))
 yr.to_csv(os.path.join(OUT, "fulltext_by_year.csv")); print(yr.round(2).to_string())
+# Disclosure in 2025 by publisher (unweighted within publisher: each publisher's own articles).
+pubd = (ft[ft.year == 2025].groupby("publisher")
+        .agg(n=("doi", "size"), disclosing=("ai_disclosure", "sum"), disclosure_pct=("ai_disclosure", "mean"))
+        .assign(disclosure_pct=lambda d: 100 * d.disclosure_pct).sort_values("n", ascending=False))
+pubd.to_csv(os.path.join(OUT, "fulltext_disclosure_by_publisher_2025.csv")); print(pubd.head(10).round(2).to_string())
+nonels = ft[(ft.year == 2025) & (ft.publisher != "Elsevier BV")]
+print("2025 weighted disclosure without Elsevier:", round(100 * np.average(nonels.ai_disclosure, weights=nonels.w), 2))
 info = dict(n=len(ft), before=int((ft.side == "before").sum()), after=int((ft.side == "after").sum()),
             journals=int(ft.source_id.nunique()), publishers=int(ft.publisher.nunique()),
             substitute_share=float(ft.substitute.mean()),

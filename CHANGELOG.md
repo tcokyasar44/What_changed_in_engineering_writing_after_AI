@@ -1,6 +1,16 @@
 # Changes
 
-## 1.0.6 (7 November 2026): version used for the submitted article
+## 1.0.7 (8 November 2026): version used for the submitted article
+
+- Marker-word robustness adds the departure for the 24 words taken from the published
+  sources (+130.1%) and for the 7 words added by the author (+47.3%), and a
+  leave-one-word-out run with each word's share of occurrences before the release
+  (`analysis/out/loo_words.csv`). [`analysis/s2_series.py`, `analysis/out/robustness.csv`]
+- Disclosure in 2025 by publisher (`analysis/out/fulltext_disclosure_by_publisher_2025.csv`)
+  and the weighted 2025 share without Elsevier. [`analysis/s5_fulltext_results.py`]
+  No earlier result changed.
+
+## 1.0.6 (7 November 2026)
 
 - Full-text results leave out seven documents downloaded in a browser that matched no
   random draw (`draw` = `browser_only`); they stay in the record. The sample is now

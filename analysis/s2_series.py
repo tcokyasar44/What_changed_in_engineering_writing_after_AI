@@ -125,6 +125,12 @@ add("sample", f"Excluding the {len(restored & set(text.source_id))} journals who
 add("sample", f"All {A.source_id.nunique()} journals", M.fit(pooled(A[A.has_text & ~A.jan1], "marker"))[0])
 add("model", "No level-change term", M.fit(pooled(text, "marker"), level=False)[0])
 add("words", "Control words only", M.fit(pooled(text, "control"))[0])
+# Marker list split by origin: 24 families from the published sources, 7 added by the author.
+SRC = [f"fam_{f}" for f in L.MARKER_FAMILIES if f not in L.ADDED_FAMILIES]
+ADD = [f"fam_{f}" for f in L.ADDED_FAMILIES]
+words = text.assign(marker_src=text[SRC].sum(axis=1), marker_add=text[ADD].sum(axis=1))
+add("words", f"{len(SRC)} words from published sources", M.fit(pooled(words, "marker_src"))[0])
+add("words", f"{len(ADD)} words added by the author", M.fit(pooled(words, "marker_add"))[0])
 robust = pd.DataFrame(rob); robust.to_csv(os.path.join(OUT, "robustness.csv"), index=False)
 print(robust[["check", "variant", "departure_pct", "slope_p", "level_p"]].round(4).to_string())
 
@@ -136,6 +142,17 @@ for sid, g in text.groupby("source_id"):
     loo.append({"source_id": sid, **res})
 loo = pd.DataFrame(loo); loo.to_csv(os.path.join(OUT, "loo.csv"), index=False)
 print("LOO journals", len(loo), loo.departure_pct.min(), loo.departure_pct.max(), (loo.slope_p < 0.05).all())
+
+# Leave one marker word out, and each word's share of marker occurrences before the release.
+pre_occ = text[text.publication_date < pd.Timestamp("2022-12-01")][[f"fam_{f}" for f in L.MARKER_FAMILIES]].sum()
+low = []
+for f in L.MARKER_FAMILIES:
+    res, _ = M.fit(pooled(text.assign(m=text.marker - text[f"fam_{f}"]), "m"))
+    low.append({"word": f, "added_by_author": f in L.ADDED_FAMILIES,
+                "share_of_pre_occurrences": pre_occ[f"fam_{f}"] / pre_occ.sum(), **res})
+low = pd.DataFrame(low); low.to_csv(os.path.join(OUT, "loo_words.csv"), index=False)
+print("LOO words", low.departure_pct.min(), low.departure_pct.max(), (low.slope_p < 0.05).all())
+print(low.sort_values("share_of_pre_occurrences", ascending=False)[["word", "share_of_pre_occurrences", "departure_pct"]].head(6).round(3).to_string())
 
 cat = []
 for c, g in text.groupby("scholar_category"):
